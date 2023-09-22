@@ -1,0 +1,27 @@
+{
+ammoTypes:{
+ancientscrap:	{"ammoMultiplier":1, "damage":123,"height":16,"lifetime":50,"speed":9,"type":"basicBulletType"},
+copper:		{"ammoMultiplier":1, "damage": 54,"height":16,"lifetime":50,"speed":9,"type":"basicBulletType"},
+graphite:	{"ammoMultiplier":2, "damage": 67,"height":16,"lifetime":50,"speed":9,"type":"basicBulletType"},
+Nickel: 	{"ammoMultiplier":1, "damage":134,"height":16,"lifetime":50,"speed":9,"type":"basicBulletType"},
+rhenium: 	{"ammoMultiplier":3, "damage": 60,"height":16,"lifetime":50,"speed":9,"type":"basicBulletType"},
+silicon:	{"ammoMultiplier":3, "damage":111,"height":16,"lifetime":50,"speed":9,"type":"basicBulletType","homingPower":9,"homingRange":24}
+}
+category:turret 
+"consumes":{"coolant": { "amount": 0.1 } },
+"drawer": {"type": "DrawTurret"}
+description: "A direct copy from astroidgen "
+health:11250
+inaccuracy:3
+liquidCapacity: 20
+localizedName:"heat shielded duodec"
+range:330
+reload:48
+requirements:[copper/600]
+research: malc_turret_1b
+shoot:{"type":"ShootAlternate","shots":20,"shotDelay":2}
+size:3
+targetGround:true
+targetAir:true
+type:itemTurret
+}

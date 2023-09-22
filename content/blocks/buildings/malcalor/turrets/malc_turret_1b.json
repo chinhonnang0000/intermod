@@ -1,0 +1,27 @@
+{
+ammoTypes:{
+ancientscrap:	{"ammoMultiplier":1, "damage":59,"height":16,"lifetime":50,"speed":6,"type":"basicBulletType"},
+copper:		{"ammoMultiplier":1, "damage":26,"height":16,"lifetime":50,"speed":6,"type":"basicBulletType"},
+graphite:	{"ammoMultiplier":2, "damage":32,"height":16,"lifetime":50,"speed":6,"type":"basicBulletType"},
+Nickel: 	{"ammoMultiplier":1, "damage":64,"height":16,"lifetime":50,"speed":6,"type":"basicBulletType"},
+rhenium: 	{"ammoMultiplier":3, "damage":29,"height":16,"lifetime":50,"speed":6,"type":"basicBulletType"},
+silicon:	{"ammoMultiplier":3, "damage":53,"height":16,"lifetime":50,"speed":6,"type":"basicBulletType","homingPower":9,"homingRange":24}
+}
+category:turret 
+"consumes":{"coolant": { "amount": 0.1 } },
+"drawer": {"type": "DrawTurret"}
+description: "A direct copy from astroidgen "
+health:3750
+inaccuracy:3
+liquidCapacity: 20
+localizedName:"heat shielded octo"
+range:220
+reload:48
+requirements:[copper/210]
+research: malc_turret_1a
+shoot:{"type":"ShootAlternate","shots":8,"shotDelay":5}
+size:2
+targetGround:true
+targetAir:true
+type:itemTurret
+}
