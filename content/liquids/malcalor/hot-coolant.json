@@ -1,6 +1,6 @@
 {
 	"type": "Liquid",
-	"name": "Coolant",
+	"name": "Hot Coolant",
 	"color": "FFDFCC",
 	"lightColor": "FFDFCC",
 	"flammability": 0,
