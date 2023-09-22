@@ -1,7 +1,7 @@
 author: chinhonnang0000
 displayName: intermod
 dependencies:[]
-description: "copies everything from mods(listed in mod browser) that no longer work. " 
+description: "copies everything from mods that no longer work. " 
 hidden:false
 name:"intermod"
 minGameVersion: 141
