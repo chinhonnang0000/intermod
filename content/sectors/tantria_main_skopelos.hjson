@@ -1,0 +1,14 @@
+planet: intm_tantria_main
+captureWave: 29
+sector: 62
+difficulty: 6
+research: {
+parent: "tantria_main_outpost"
+objectives: [
+    {
+      type: SectorComplete
+      preset: "tantria_main_outpost"
+    }
+  ]
+}
+localisedName: "Skopelos"

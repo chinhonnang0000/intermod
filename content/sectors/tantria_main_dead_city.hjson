@@ -1,0 +1,14 @@
+captureWave: 21
+planet: intm_tantria_main
+sector: 16
+difficulty: 4
+research: {
+parent: tantria_main_frigid_wastewaters
+objectives: [
+    {
+      type: SectorComplete
+      preset: tantria_main_frigid_wastewaters
+    }
+  ]
+}
+localizedName:"Dead City"

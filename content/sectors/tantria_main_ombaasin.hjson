@@ -1,0 +1,13 @@
+planet: intm_tantria_main
+sector: 18
+description: "The last mission in the original tantria campaign"
+difficulty: 5
+research: {
+parent: "tantria_main_alect"
+objectives: [
+    {
+      type: SectorComplete
+      preset: "tantria_main_alect"
+    }
+  ]
+}

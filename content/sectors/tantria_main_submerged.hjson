@@ -1,0 +1,13 @@
+allowLaunchLoadout: true 
+allowLaunchSchematics: true
+alwaysUnlocked:true
+planet: intm_tantria_main
+sector: 10
+description: "Successfully copied the entire field but not the map sectioning and emeny timer. So expect the enemy to attack before you build a wreck. This field used to be the first mission in the original mod
+/n Mission map may subject to change when the original mod works again (clicking on Tantros on the left side of the screen). 
+"
+difficulty: 6
+localizedName: "Submerged"
+research: {"parent":"tantria_main_sector_one",
+"objectives":[{"type":"SectorComplete","preset":"tantria_main_sector_one"}]
+}

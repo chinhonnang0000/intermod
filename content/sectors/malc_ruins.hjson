@@ -1,0 +1,9 @@
+{
+alwaysUnlocked:false,
+captureWave: 20
+difficulty: 5
+localizedName: "[#787878]The Ruins of [#573837]Malcalor"
+sector: 15
+planet:"intm_malcalor"
+research:{"parent":"malc_init",objectives:[{"type":"SectorComplete","preset":"malc_init"}]}
+}

@@ -1,0 +1,9 @@
+planet: intm_tantria_main
+sector: 63
+difficulty: 0
+localizedName:"Frigid Wastewaters"
+research: {
+parent: tantria_main_submerged
+objectives: [{"type":"SectorComplete","preset":"tantria_main_submerged"}]
+}
+localizedName: "Frigid Wastewaters"
