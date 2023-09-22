@@ -1,0 +1,57 @@
+accessible:true,
+allowLaunchLoadout: true
+allowLaunchSchematics: true
+allowSectorInvasion: true
+allowWaves: true
+allowWaveSimulation: true
+alwaysUnlocked: true
+atmosphereColor: f3a8ff
+atmosphereRadIn: 0.05
+atmosphereRadOut: 0.25
+bloom: false
+camRadius: 0.4
+clearSectorOnLose: false
+defaultCore: core-shard
+description: "Volcano planet, according to original modder.\n Credits: SkyeTheFoxyFox"
+ 
+drawOrbit: true
+
+generator:{
+alt: true
+baseseed:223
+berylChance:0.20
+carbonChance:0.20
+ferricChance:0.20
+iceChance:0.12
+max: 999
+min: 600
+octaves: 1
+radMax: 620
+radMin: 225
+persistance:0.09
+scl:4.52
+seed:125
+type:SerpuloPlanetGenerator
+waterOffset:0.05
+}
+
+hasAtmosphere: true
+hiddenItems:[]
+iconColor: 123abc
+launchCandidates: []
+localizedName:intm_malcalor
+mesh:{"color1":414151,"color2":"EF7412","divisions":5,seed:"3122"},
+minZoom: 0.17
+orbitRadius: 25
+orbitTime: 250
+orbitSpacing: 140
+parent: erekir,
+radius: 1,
+research:{"root":true,"name":"intm_malcalor","requiresUnlock":false,"planet":"intm_malcalor"}
+rotateTime: 100
+sectorSeed: 982329
+sectorSize: 1,
+solarSystem: sun
+startSector: 0,
+updateLighting: true
+visible: true
