@@ -1,0 +1,25 @@
+{
+  "name": "large nickel Drill",
+  "description": "-",
+"fogRadius": 4,
+"health": 1000,  
+"type": "Drill",
+  "size": 3,
+  "tier": 3,
+  "itemCapacity": 100,
+  "drillTime": 588,
+  "hasPower": false,
+  "powerConsumes": 1,
+
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"Nickel","amount":27}],
+  "category": "production",
+  "research": "tantria_nickel_drill_2"
+}

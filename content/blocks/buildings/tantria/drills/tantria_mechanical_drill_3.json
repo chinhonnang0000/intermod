@@ -1,0 +1,25 @@
+{
+  "name": "large mechaincal drill",
+  "description": "large version of standard mechanical drill",
+"fogRadius": 4,
+"health": 400,  
+"type": "Drill",
+  "size": 3,
+  "tier": 2,
+  "itemCapacity": 25,
+  "drillTime": 600,
+  "hasPower": false,
+  "powerConsumes": 1,
+
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"copper","amount":27}],
+  "category": "production",
+  "research": "tantria_mechanical_drill_2"
+}

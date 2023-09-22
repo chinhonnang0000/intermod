@@ -1,0 +1,28 @@
+{
+name: Cliff Bore
+description: Gathers Items from walls.
+type: BeamDrill
+health: 270
+fogRadius: 3
+size: 2
+category: production
+destructible: true
+breakable: true
+buildVisibility: shown
+research: {
+  parent: intm_tantria_main
+  requirements: [Nickel/10]
+}
+tier: 2
+range: 1
+drillTime: 160
+consumes: {
+   liquids: {
+    liquids:[oxygen-gas/ 0.04],booster: true, optional: true
+   }
+}   
+drawer: {"type":"DrawMulti",
+drawers: [{"type":"DrawDefault"},{"type":"drawSpinSprite","suffix":"-rotator","color":"9cb0e6"}]
+}
+requirements: [Nickel/42]
+}

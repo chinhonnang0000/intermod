@@ -1,0 +1,25 @@
+{
+  "name": "standrad mechanical drill",
+  "description": "the same mechanical drill used back in Ground Zero, Serpulo",
+"fogRadius": 3,
+"health": 160,  
+"type": "Drill",
+  "size": 2,
+  "tier": 2,
+  "itemCapacity": 10,
+  "drillTime": 600,
+  "hasPower": false,
+  "powerConsumes": 1,
+
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"copper","amount":12}],
+  "category": "production",
+  "research": "tantria_mechanical_drill_1"
+}
