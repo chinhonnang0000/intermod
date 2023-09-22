@@ -1,0 +1,60 @@
+name : Underwater Conduit
+type: ArmoredConduit
+description: Moves fluids forward. Armored to withstand great water pressure. Doesn't accept non-conduit inputs from the sides. High pressure, fluids may leak fast.
+health: 250
+botColor: 38393f
+armor: 2
+size: 1
+category: liquid
+solid: false
+leaks: false
+underBullets: true
+liquidPressure: 2
+liquidCapacity: 30
+research: {
+	parent: tantria_tc_0
+    requirements: [
+       Nickel/ 6
+    ]
+}
+requirements: [
+   Nickel/ 3
+]
+destroyEffect: [
+ {
+  particles: 1
+  length: 0
+  lifetime: 25
+  interp: pow2In
+  sizeFrom: 8
+  sizeTo: 0
+  colorTo: 7382f0
+ },
+ {
+  type: ParticleEffect
+  particles: 5
+  colorFrom: ba99c7
+  colorTo: ffffff
+ }
+]
+breakEffect: [
+   {
+    type: WaveEffect
+    rotation: 45
+    lifetime: 15
+    sides: 4
+    sizeFrom: 4
+    interp: pow2In
+    sizeTo: 9
+    strokeFrom: 2
+    strokeTo: 0
+    colorFrom: 856296
+    colorTo: ba99c7
+   },
+   {
+    type: ParticleEffect
+    particles: 5
+    colorFrom: ba99c7
+    colorTo: ffffff
+   }
+]
