@@ -1,0 +1,16 @@
+{
+category:crafting
+consumes:{items:[carbon/3],power:2}
+craftEffect: "smeltsmoke"
+craftTime: 600
+description:"turns carbon into carbon fibre. Slow and painstaking process"
+health:1225
+itemCapacity:15
+localisedName:"carbon fibre fatory",
+"outputItem":{"item":"carbon_fibre","amount":2}
+requirements:[{"item":"copper","amount":50},{"item":"lead","amount":50},{"item":"rhenium","amount":50},
+{"item":"super-alloy","amount":50}]
+research: malc_coal_purifier
+size:3
+type:GenericCrafter
+}

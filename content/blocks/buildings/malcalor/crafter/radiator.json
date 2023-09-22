@@ -1,0 +1,49 @@
+{
+	"type": "GenericCrafter",
+	"name": "Radiator",
+	"category": "crafting",
+	
+	"ambientSound": "wind2",
+	
+	"health": 480,
+	"size": 2,
+	
+	"liquidCapacity": 20,
+	"hasLiquid": true,
+	"craftTime": 100,
+	
+	"outputLiquid": "coolant/2"
+	
+	"requirements": [
+		"silicon/75",
+		"lead/150",
+		"metaglass/75"
+	],
+research: intm_malcalor	
+	"consumes": {
+		"power": 0.5,
+		"liquids": ["hot-coolant/2",]
+	},
+	
+	"drawer": {
+  "type": "DrawMulti"
+  "drawers": [
+    {
+      "type": "DrawRegion"
+      "suffix": "-bottom"
+    }
+    {
+      "type": "DrawRegion"
+      "suffix": "-rotator"
+      "rotateSpeed": 16
+      "spinSprite": true
+    }
+    {
+      "type": "DrawRegion"
+      "suffix": "-top"
+    }
+  ]
+}
+
+	
+}
