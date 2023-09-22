@@ -1,0 +1,31 @@
+name: "Vertex Factory"
+description: "Fabricates air units with nickel, cadmium and copper"
+type: UnitFactory
+health: 1100
+size: 3
+configurable: false
+consumes: {
+power: 1.25
+liquid: {
+  liquid: deuterium
+  amount: 1
+}
+}
+plans: [
+  {
+    unit: vertex
+    requirements: [
+      Nickel/30
+      cadmium/45
+      copper/50
+    ]
+    time: 1991
+  }
+]
+category: units
+requirements: [
+  Nickel/300
+  titanium/100
+  lead/50
+]
+research: tantria_wf_1
