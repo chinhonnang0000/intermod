@@ -1,0 +1,8 @@
+category:"liquid"
+description: "enforced with copper"
+health:120
+localizedName:"heat shielded conduit"
+requirements:[{"item":"copper","amount":1},{"item":"metaglass","amount":1}]
+research:"malc_turbc_1"
+solid:false
+type:ArmoredConduit
