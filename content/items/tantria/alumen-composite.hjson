@@ -1,0 +1,13 @@
+name: "Alumen Composite"
+description: "An advanced alloy used for all sorts of tasks. But it is highly Explosive and Flammable. Use it carefully."
+color: "#FFFFFF"
+radioactivity: 0.30
+explosiveness: 4
+flammability: 2
+hardness: 3.1
+research: {
+   parent: argus
+   type: Ojective
+   objectiveType: Produce
+   item: alumen-composite
+}

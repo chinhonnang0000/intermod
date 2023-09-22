@@ -1,0 +1,11 @@
+name: Solid Oxygen
+description: How
+details: We do not know why oxygen has already started solidifying at such low temperatures
+color: "#99e9e9"
+radioactivity: 0.0
+explosiveness: 1
+flammability: 1.5
+charge: 0.65
+cost: 1.15
+hardness: 2
+research: cadmium
