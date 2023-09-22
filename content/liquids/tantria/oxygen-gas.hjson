@@ -1,0 +1,10 @@
+name: Oxygen
+description: Highly flammable and explosive, used in Power generation.
+research: core-ruin
+color: b8c9df
+gas: true
+temperature: 0.5
+flammability: 1
+explosiveness: 1
+viscosity: 1
+alwaysUnlocked: false
