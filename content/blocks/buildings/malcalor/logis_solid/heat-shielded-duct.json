@@ -1,0 +1,17 @@
+{
+	"type": "Duct",
+	"name": "Heat Shielded Duct",
+	"category": "distribution",
+research: intm_malcalor
+	
+	"itemCapacity": 1,
+	"hasItems": true,
+	
+	
+	"requirements": [
+		"copper/1",
+	],
+
+	"health": 90,
+	"size": 1,
+}
