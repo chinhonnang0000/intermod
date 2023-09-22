@@ -1,0 +1,17 @@
+{
+category:production,
+consumes:{
+liquid:{"liquid":"water","amount":0.02,"optional":true,"booster":true}
+}
+description:"standard pneumetic drill but stronger and costs a bit more."
+drillTime:400
+hasLiquid:true
+health: 360
+itemCapacity:12
+localizedName:"medium heat shielded pneumetic drill"
+requirements:[{"item":"copper","amount":24},{"item":"graphite","amount":12}]
+research: malc_pdrill_1
+size:2
+tier:3
+type:Drill
+}
