@@ -1,0 +1,9 @@
+{
+	"type": "Wall",
+	"name": "extra-large carbon fibre wall",
+	"category": "defense",
+"requirements": [carbon_fibre/54],
+research: malc_cf_wall_3
+	"health":30000,
+	"size":4,
+}
