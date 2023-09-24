@@ -1,8 +1,9 @@
+category:units
 configurable: false
 consumes:{"power":1.2}
 description: "produces the copper datter only, compensates with 16 max units."
-localisedName: copper dagger factory
-plans:["unit":"malc_g1a","time":900,"requrirements":[copper/10,lead/10,silicon/10]]
+localisedName:"copper dagger factory"
+plans:["unit":"malc_g1a","time":900,"requirements":["copper/10","lead/10","silicon/10"]]
 requirements:[copper:/150,lead/100,silicon/80]
 size:3
 type:UnitFactory
