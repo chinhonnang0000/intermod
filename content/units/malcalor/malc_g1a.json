@@ -4,6 +4,6 @@ localizedName: Copper enforeced Dagger
 speed: 0.75
 
 weapons:[
-{"bullet":{"type":"basicBulletType","speed":3,"lifetime":60,"height":12,"damage":23},"reload":13,"top":false,"x":4,"y":2}
-{"bullet":{"type":"basicBulletType","speed":3,"lifetime":60,"height":12,"damage":23},"reload":13,"top":false,"x":-4,"y":2}
+{"bullet":{"type":"basicBulletType","speed":3,"lifetime":60,"height":12,"damage":23},"reload":13,"range":165,"top":false,"x":4,"y":2}
+{"bullet":{"type":"basicBulletType","speed":3,"lifetime":60,"height":12,"damage":23},"reload":13,"range":165,"top":false,"x":-4,"y":2}
 ]
