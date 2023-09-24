@@ -1,3 +1,4 @@
+category: units
 configurable: false
 consumes:{"power":1.2}
 description: "produces the copper datter only, compensates with 8 max units."
