@@ -3,6 +3,7 @@ flying:true
 health: 210
 localizedName: Copper enforeced Flare
 range: 165
+research: malc_wf_a1a
 speed: 4.05
 
 weapons:[
