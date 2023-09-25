@@ -1,5 +1,5 @@
 # intermod
-mindustry mod that contains others that no longer works. 
+mindustry mod that contains others that no longer works. Additinal detalis and screehshots are in read me.docx
 
 this mods contains several mod remakes (WIP): Made prior to 2-factor authentication. 
 - Malcalor https://github.com/skyethefoxyfox/malcalor
