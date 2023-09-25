@@ -3,7 +3,7 @@ category:production
 consumes:{power:2, liquids:["water/2","oxygen-gas/2"]}
 craftEffect: "smeltsmoke"
 craftTime: 60
-description:"extract rhenium"
+description:"extracts nickel"
 health:225
 itemCapacity:15
 liquidCapacity:150
