@@ -2,6 +2,7 @@ description: "enhanced structure allows for increased speed and hit points"
 health: 375
 localizedName: Copper enforeced Dagger
 speed: 0.75
+research: malc_wf_g1a
 
 weapons:[
 {"bullet":{"type":"basicBulletType","speed":3.5,"lifetime":60,"height":12,"damage":23},"reload":13,"range":165,"top":false,"x":4,"y":2}
