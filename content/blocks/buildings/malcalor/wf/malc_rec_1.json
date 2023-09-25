@@ -1,0 +1,13 @@
+category:units
+configurable: false
+constructTime: 600
+consumes:{"power":3}
+description: "intm_malcalor tier 1 to tier 2"
+localisedName: "copper reconstructor"
+requirements:[copper/250,lead/120,silicon/90]
+size:3
+type:Reconstructor
+upgrades:[
+[malc_ala,malc_a2a],
+[malc_gla,malc_g2a],
+]
