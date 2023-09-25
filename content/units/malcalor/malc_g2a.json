@@ -4,6 +4,7 @@ health: 1650
 immunity:[burning]
 localizedName: Copper enforeced Mace
 range: 165
+research: malc_g1a
 speed: 0.75
 
 weapons:[
