@@ -5,6 +5,7 @@ fogRadius:26
 health:1020
 localizedName: Copper enforeced horizon
 range: 210
+research: malc_a1a
 speed: 2.47
 
 weapons:[
