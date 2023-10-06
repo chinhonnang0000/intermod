@@ -40,7 +40,7 @@ hiddenItems:[]
 iconColor: 123abc
 launchCandidates: []
 localizedName:intm_main
-mesh:{type:SunMesh, seed: 134,persistance:2.12 ,divisions: 8, colorScale: 0.78,colors:[d23424,234331,e3e112,f43422,897971,ed3442,908f21]},
+mesh:{type:SunMesh, seed: 134, scl:3, persistance:2.12 ,divisions: 8, colorScale: 0.78,colors:[783813,234331,e3a112,443422,897971,5d3442,908f21]},
 
 minZoom: 0.17
 orbitRadius: 70
