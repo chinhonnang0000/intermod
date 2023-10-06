@@ -1,0 +1,12 @@
+category: production
+description: "intm_main tier 1 small drill"
+drillTime: 1897
+hasLiquid:false
+health: 4
+itemCapacity:1
+localizedName: "small dried mud drill" 
+requirements:[main_mud_solid/3]
+research: main_mud_solidifier
+size:1
+tier:1
+type:Drill

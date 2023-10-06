@@ -1,0 +1,12 @@
+category: production
+description: "intm_main tier 4 large drill"
+drillTime: 284
+hasLiquid:false
+health: 1611
+itemCapacity:135
+localizedName: "large viscottium drill" 
+requirements:[main_04/27]
+research: main_drill_4b
+size:3
+tier:4
+type:Drill
