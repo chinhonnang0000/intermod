@@ -1,4 +1,4 @@
-require("wisp_wisa"); require("tantria"); require("malc");
+require("wisp_wisa"); require("tantria"); require("malc"); require("intm_main");
 Events.on(ContentInitEvent, e =>
 { 
    // intermod to original contents
