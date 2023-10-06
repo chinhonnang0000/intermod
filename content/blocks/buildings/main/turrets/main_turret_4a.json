@@ -1,0 +1,21 @@
+ammoTypes:{
+copper:		{"ammoMultiplier":2, "damage": 54,"height":14,"lifetime":50,"speed":9,"type":"basicBulletType"},
+lead:		{"ammoMultiplier":2, "damage": 38,"height":14,"lifetime":50,"speed":9,"type":"basicBulletType"},
+main_02:	{"ammoMultiplier":2, "damage": 21,"height":14,"lifetime":50,"speed":9,"type":"basicBulletType"},
+main_03:	{"ammoMultiplier":2, "damage": 84,"height":14,"lifetime":50,"speed":9,"type":"basicBulletType"},
+main_04:	{"ammoMultiplier":2, "damage":143,"height":14,"lifetime":50,"speed":9,"type":"basicBulletType"},
+main_05:	{"ammoMultiplier":2, "damage":335,"height":14,"lifetime":50,"speed":9,"type":"basicBulletType"},
+main_mud_solid:	{"ammoMultiplier":2, "damage": 16,"height":14,"lifetime":50,"speed":9,"type":"basicBulletType"},
+}
+category:turret
+description: "much stronger than standard duo"
+health:3570
+inaccuracy:1
+localizedName:"Doremium duo" 
+reload:48
+range:327
+research: main_doremium_extractor
+requirements:[main_05/35]
+shoot:{"type":"ShootAlternate","shots":2,"shotDelay":15}
+size:1
+type:ItemTurret
