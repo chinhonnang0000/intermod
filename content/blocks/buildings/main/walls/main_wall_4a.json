@@ -1,0 +1,8 @@
+armor:7
+category:defense
+health:1275
+localizedName: "small viscottium wall"
+requirements:["main_04/6"]
+research: main_viscottium_smelter
+size: 1
+Type: Wall

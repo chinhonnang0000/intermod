@@ -1,0 +1,8 @@
+armor:15
+category:defense
+health:3213
+localizedName: "large viscottite wall"
+requirements:["main_03/54"]
+research: main_wall_3b
+size: 3
+Type: Wall

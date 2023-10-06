@@ -1,0 +1,8 @@
+armor:28
+category:defense
+health:22500
+localizedName: "extra-large viscottium wall"
+requirements:["main_04/96"]
+research: main_wall_4c
+size: 4
+Type: Wall

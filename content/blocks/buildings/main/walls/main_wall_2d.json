@@ -1,0 +1,8 @@
+armor:8
+category:defense
+health:1800
+localizedName: "extra-large softwood wall"
+requirements:["main_02/96"]
+research: main_wall_2c
+size: 4
+Type: Wall
