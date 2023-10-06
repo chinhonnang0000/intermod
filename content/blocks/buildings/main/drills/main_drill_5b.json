@@ -1,0 +1,12 @@
+category: production
+description: "intm_main tier 5 medium drill"
+drillTime: 150
+hasLiquid:false
+health: 2560
+itemCapacity:120
+localizedName: "medium doremium drill" 
+requirements:[main_05/12]
+research: main_drill_5a
+size:2
+tier:5
+type:Drill
