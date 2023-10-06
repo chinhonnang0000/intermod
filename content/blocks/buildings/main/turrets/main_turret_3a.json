@@ -1,0 +1,20 @@
+ammoTypes:{
+copper:		{"ammoMultiplier":2, "damage":23,"height":9,"lifetime":50,"speed":6,"type":"basicBulletType"},
+lead:		{"ammoMultiplier":2, "damage":16,"height":9,"lifetime":50,"speed":6,"type":"basicBulletType"},
+main_02:	{"ammoMultiplier":2, "damage": 9,"height":9,"lifetime":50,"speed":6,"type":"basicBulletType"},
+main_03:	{"ammoMultiplier":2, "damage":26,"height":9,"lifetime":50,"speed":6,"type":"basicBulletType"},
+main_04:	{"ammoMultiplier":2, "damage":61,"height":9,"lifetime":50,"speed":6,"type":"basicBulletType"},
+main_mud_solid:	{"ammoMultiplier":2, "damage": 7,"height":9,"lifetime":50,"speed":6,"type":"basicBulletType"},
+}
+category:turret
+description: "slightly stronger than standard duo"
+health:1000
+inaccuracy:2
+localizedName:"Viscottium duo" 
+reload:48
+range:215
+research: main_viscottium_smelter
+requirements:[main_04/35]
+shoot:{"type":"ShootAlternate","shots":2,"shotDelay":15}
+size:1
+type:ItemTurret
