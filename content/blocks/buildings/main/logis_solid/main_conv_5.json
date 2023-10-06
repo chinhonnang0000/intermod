@@ -1,0 +1,9 @@
+description: "intm_main tier 5 conveyor"
+health:640
+localizedName: "Doremium conveyor"
+requirements:[{"item":"main_04","amount":1}]
+research: main_doremium_extractor
+size:1
+speed: 0.2862
+displaySpeed:39.1
+type:Conveyor
