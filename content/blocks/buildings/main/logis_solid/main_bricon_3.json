@@ -1,0 +1,8 @@
+description: "bridge conveyor made of viscottite"
+health:50
+localizedName: "viscottite bridge conveyor"
+range:5 
+requirements:[{"item":"main_03","amount":12}]
+research: main_rout_3
+size:1
+type:ItemBridge

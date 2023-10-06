@@ -1,0 +1,9 @@
+description: "intm_main tier 1 conveyor"
+health:14
+localizedName: "softwood conveyor"
+requirements:[{"item":"main_02","amount":1}]
+research: main_softwood_farm
+size:1
+speed: 0.0478
+displaySpeed:6.193
+type:Conveyor

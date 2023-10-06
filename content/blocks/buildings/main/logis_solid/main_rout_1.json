@@ -1,0 +1,7 @@
+description: "intm_main tier 1 Router. still far weaker than standard router though"
+health:4
+localizedName: "dried router"
+requirements:[{"item":"main_mud_solid","amount":3}]
+research:main_junc_1
+size:1
+type:Router
