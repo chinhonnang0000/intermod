@@ -1,0 +1,8 @@
+armor:28
+category:defense
+health:18210
+localizedName: "medium doremium wall"
+requirements:["main_05/24"]
+research: main_wall_5a
+size: 2
+Type: Wall
