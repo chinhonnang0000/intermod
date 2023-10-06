@@ -1,0 +1,13 @@
+category: production
+craftEffect:smeltsmoke
+craftTime: 600
+description: "grinds soils into mud and solidify."
+health:20
+localizedName: mud drier
+outputItem: "main_mud_solid/1"
+requirements:[main_soil/25]
+research: intm_main
+size:2
+type:GenericCrafter
+
+ 
