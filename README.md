@@ -13,7 +13,7 @@ eg. nickel drills, super alloy walls.
 
 BALANCING DISCLAIMER
 No content taken from the original mod are changed unless there is bugs. 
-Thus some tech may be very OP (example: Tantria's Devevestator) or useless (example: all hyperspace turrets)  
+Thus some tech may be very OP (example: Tantria's Devestator) or useless (example: all hyperspace turrets)  
 Things are added to make the mod playable. They may also be OP 
 
 current affairs: 
