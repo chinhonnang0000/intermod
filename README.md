@@ -17,5 +17,5 @@ Thus some tech may be very OP (example: Tantria's Devestator) or useless (exampl
 Things are added to make the mod playable. They may also be OP 
 
 current affairs: 
-- will not be updating until 3 October 2023 
+- intm_main tech tree aims on other mods that have no errors but unplayable in the campaign mode or prevents further explorations.     
 
