@@ -12,9 +12,11 @@ Except the ones are added to fill up the oh no and the techs to make the mod cam
 eg. nickel drills, super alloy walls. 
 
 BALANCING DISCLAIMER
-No content taken from the original mod are changed unless there is bugs. 
+No content taken from the original mod are changed unless there are bugs and ducplicates. 
 Thus some tech may be very OP (example: Tantria's Devestator) or useless (example: all hyperspace turrets)  
-Things are added to make the mod playable. They may also be OP 
+Things are added to make the mod playable. They may also be OP. 
+
+Java mods that are not working will be converted to json-javaScript format.
 
 current affairs: 
 - intm_main tech tree aims on other mods that have no errors but unplayable in the campaign mode or prevents further explorations.     
