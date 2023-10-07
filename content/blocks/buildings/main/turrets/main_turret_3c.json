@@ -1,0 +1,20 @@
+ammoTypes:{
+copper:		{"ammoMultiplier":1, "damage": 81,"height":25,"lifetime":50,"speed":14,"type":"basicBulletType"},
+lead:		{"ammoMultiplier":1, "damage": 61,"height":25,"lifetime":50,"speed":14,"type":"basicBulletType"},
+main_02:	{"ammoMultiplier":1, "damage": 30,"height":25,"lifetime":50,"speed":14,"type":"basicBulletType"},
+main_03:	{"ammoMultiplier":1, "damage": 72,"height":25,"lifetime":50,"speed":14,"type":"basicBulletType"},
+main_04:	{"ammoMultiplier":1, "damage":168,"height":25,"lifetime":50,"speed":14,"type":"basicBulletType"},
+main_mud_solid:	{"ammoMultiplier":1, "damage": 21,"height":25,"lifetime":50,"speed":14,"type":"basicBulletType"},
+}
+category:turret
+description: "mich stronger than standard duodec"
+health: 15611
+inaccuracy:2
+localizedName:"viscottium duodec" 
+reload:48
+range:501
+research: main_turret_3b
+requirements:[main_04/350]
+shoot:{"type":"ShootAlternate","shots":20,"shotDelay":15}
+size:3
+type:ItemTurret
