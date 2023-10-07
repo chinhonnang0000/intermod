@@ -1,17 +1,17 @@
-ammoTypes:{
-copper:		{"ammoMultiplier":2, "damage":108,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
-lead:		{"ammoMultiplier":2, "damage": 77,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
-main_02:	{"ammoMultiplier":2, "damage": 42,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
-main_03:	{"ammoMultiplier":2, "damage": 99,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
-main_04:	{"ammoMultiplier":2, "damage":231,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
-main_05:	{"ammoMultiplier":2, "damage":541,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
-main_mud_solid:	{"ammoMultiplier":2, "damage": 16,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
+"ammoTypes":{
+"copper":		{"ammoMultiplier":2, "damage":108,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
+"lead":		  {"ammoMultiplier":2, "damage": 77,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
+"main_02":	{"ammoMultiplier":2, "damage": 42,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
+"main_03":	{"ammoMultiplier":2, "damage": 99,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
+"main_04":	{"ammoMultiplier":2, "damage":231,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
+"main_05":	{"ammoMultiplier":2, "damage":541,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
+"main_mud_solid":	{"ammoMultiplier":2, "damage": 16,"height":24,"lifetime":50,"speed":19,"type":"basicBulletType"},
 }
 category:turret
-description: "much stronger than standard duo"
+description: "-"
 health:15931
 inaccuracy:1
-localizedName:"Doremium duo" 
+localizedName:"Doremium octo" 
 reload:48
 range:650
 research: main_turret_4a
