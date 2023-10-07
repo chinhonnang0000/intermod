@@ -3,7 +3,7 @@ consumes:{"items":[main_02/25,main_03/25]}
 craftTime:1200
 description:"smelts viscottite to viscottium" 
 health: 570
-itemCapacity:25
+itemCapacity:250
 localizedName:"Viscottium smelter"
 outputItem:"main_04/10"
 requirements: [main_mud_solid/300,main_02/100]
