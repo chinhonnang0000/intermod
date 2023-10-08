@@ -47,7 +47,7 @@ orbitRadius: 70
 orbitSpacing: 140
 parent: sun,
 radius: 5.20,
-research:{"root":true,"name":"intermod - start from nothing at all","requiresUnlock":false,"planet":"intm_main"}
+research:{"root":true,"name":"intm_main","requiresUnlock":false,"planet":"intm_main"}
 sectorSeed: 982329
 sectorSize: 4,
 solarSystem: sun
