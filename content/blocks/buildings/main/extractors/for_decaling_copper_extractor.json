@@ -1,0 +1,14 @@
+alwaysUnlocked:true
+category:production
+craftEffect:smeltsmoke
+craftingTime:60
+consumes:{"power":1}
+description:"Project Decay still uses Shard to launches to other sectors and 
+launch schematics are not allowed thus copper is required to further progress in Project Decay"
+health:1200
+localizedName:"copper extractor for Project Decay"
+outputItem: copper/1
+requirements:[lead/120,graphite/120,silicon/120]
+research:intm_main
+size:3
+type:GenericCrafter
