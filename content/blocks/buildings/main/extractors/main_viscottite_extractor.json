@@ -4,7 +4,7 @@ craftTime: 600
 description: "Extracts viscottite from very deep deposits"
 health:2600
 localizedName: Viscottite Extractor
-outputItem: "main_03/1"
+outputItem: "main_03/2"
 requirements:[main_02/500,main_mud_solid/300]
 research: intm_main
 size:4
