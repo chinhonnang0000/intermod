@@ -1,0 +1,27 @@
+{
+  "name": "extra-large tantria super Drill",
+  "description": "extra-large Tantria drill that is capable to mine thorium",
+"fogRadius": 6
+"health": 12500,  
+"type": "Drill",
+  "size": 4,
+  "tier": 4,
+  "itemCapacity": 1250,
+  "drillTime": 42,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [
+{"item":"cadmium","amount":66},{"item":"copper","amount":66},{"item":"lead","amount":66},{"item":"Nickel","amount":66}
+{"item":"oblite","amount":66},{"item":"oxygen","amount":66},{"item":"titanium","amount":66},{"item":"zincum","amount":66}
+],
+  "category": "production",
+  "research": "tantria_super_drill_3"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "small tantria super Drill",
+  "description": "small Tantria drill that is capable to mine thorium",
+"fogRadius": 3
+"health": 500,  
+"type": "Drill",
+  "size": 1,
+  "tier": 4,
+  "itemCapacity": 50,
+  "drillTime": 60,
+  "hasPower": false,
+  "powerConsumes": 1,
+
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [
+{"item":"cadmium","amount":3},{"item":"copper","amount":3},{"item":"lead","amount":3},{"item":"Nickel","amount":3}
+{"item":"oblite","amount":3},{"item":"oxygen","amount":3},{"item":"titanium","amount":3},{"item":"zincum","amount":3}
+],
+  "category": "production",
+  "research": "zinc-extractor"
+}
