@@ -1,0 +1,17 @@
+{
+category:production,
+consumes:{
+liquid:{"liquid":"water","amount":0.02,"optional":true,"booster":true}
+}
+description:"-"
+drillTime:237
+hasLiquid:true
+health:3800
+itemCapacity:100
+localizedName:"large super alloy drill"
+requirements:[{"item":"super-alloy","amount":48}]
+research: malc_sa_drill_3
+size:4
+tier:5
+type:Drill
+}

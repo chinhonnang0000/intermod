@@ -1,0 +1,17 @@
+{
+category:production,
+consumes:{
+liquid:{"liquid":"water","amount":0.02,"optional":true,"booster":true}
+}
+description:"-"
+drillTime:237
+hasLiquid:true
+health:864
+itemCapacity:24
+localizedName:"medlum super alloy drill"
+requirements:[{"item":"super-alloy","amount":12}]
+research: malc_sa_drill_1
+size:2
+tier:5
+type:Drill
+}

@@ -1,0 +1,17 @@
+{
+category:production,
+consumes:{
+liquid:{"liquid":"water","amount":0.02,"optional":true,"booster":true}
+}
+description:"-"
+drillTime:300
+hasLiquid:true
+health:2500
+itemCapacity:80
+localizedName:"extra-large rhenium drill"
+requirements:[{"item":"rhenium","amount":48}]
+research: rhenium_drill_3
+size:4
+tier:4
+type:Drill
+}

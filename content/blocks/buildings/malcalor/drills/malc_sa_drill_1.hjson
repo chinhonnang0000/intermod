@@ -1,0 +1,17 @@
+{
+category:production,
+consumes:{
+liquid:{"liquid":"water","amount":0.02,"optional":true,"booster":true}
+}
+description:"-"
+drillTime:237
+hasLiquid:true
+health:216
+itemCapacity:6
+localizedName:"small super alloy drill"
+requirements:[{"item":"super-alloy","amount":3}]
+research: alloy-compressor
+size:1
+tier:5
+type:Drill
+}
