@@ -1,0 +1,11 @@
+{
+	"type": "Liquid",
+	"name": "Coolant",
+	"color": "FFDFCC",
+	"lightColor": "FFDFCC",
+	"flammability": 0,
+	"temperature": 0.8,
+	"heatCapacity": 1,
+	"viscosity": 0.5,
+	"explosiveness": 0,
+}
