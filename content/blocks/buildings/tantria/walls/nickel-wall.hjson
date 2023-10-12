@@ -1,0 +1,13 @@
+name: Nickel Wall
+size: 1
+type: Wall
+description: "Protects structures from enemy projectiles. Conducts power"
+conductivePower: true
+health: 500
+hasPower: true
+category: defense
+research: {
+   parent: intm_tantria_main,
+   requirements: [Nickel/ 50]
+}
+requirements: [Nickel/6]
