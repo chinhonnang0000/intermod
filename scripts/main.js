@@ -1,5 +1,5 @@
-require("wisp_wisa"); require("tantria"); require("malc"); require("intm_main"); 
-//require("dore"); suspected problem in intm_dioremod
+require("wisp_wisa"); require("tantria"); require("malc"); require("intm_main"); require("dore"); 
+//suspected problem in intm_dioremod but not here
 Events.on(ContentInitEvent, e =>
 { 
    // intermod to original contents
