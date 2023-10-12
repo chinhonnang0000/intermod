@@ -1,0 +1,16 @@
+{
+category:production
+consumes:{power:2, liquids:["water/2","oxygen-gas/2"]}
+craftEffect: "smeltsmoke"
+craftTime: 60
+description:"extract rhenium"
+health:225
+itemCapacity:15
+liquidCapacity:150
+localisedName:"nickel extractor",
+"outputItem":{"item":"Nickel","amount":1}
+requirements:[{"item":"titanium","amount":60},{"item":"copper","amount":50},{"item":"lead","amount":50}]
+research: intm_malcalor
+size:3
+type:GenericCrafter
+}

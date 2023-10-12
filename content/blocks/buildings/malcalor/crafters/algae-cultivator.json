@@ -1,0 +1,45 @@
+{
+	"type": "GenericCrafter",
+	"name": "Algae Cultivator",
+	"category": "crafting",	
+"ambientSound": "none",	
+"hasLiquid": true,
+"LiquidCapacity": 10,
+"craftTime": 30,
+"outputLiquid": "oxygen-gas/1",
+"requirements": [
+		"silicon/75",
+		"lead/150",
+		"metaglass/75"
+	],
+research: intm_malcalor
+	"consumes": {
+		"power": 0.25,
+		"liquids":["water/1",]
+	},
+	
+	"drawer": {
+		"type": "DrawMulti"
+		"drawers": [
+			{
+				"type": "DrawRegion"
+				"suffix": "-bottom"
+			}
+			{
+				"type": "DrawCultivator"
+				"plantColor": "197d26"
+				"plantColorLight": "31a841"
+			}
+			{
+				"type": "DrawRegion"
+			}
+			{
+				"type": "DrawRegion"
+				"suffix": "-top"
+			}
+		]
+	}
+
+	"health": 480,
+	"size": 2,
+}
