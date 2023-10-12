@@ -1,4 +1,0 @@
-type: StaticWall
-name: Ancient Metal
-variants: 5
-fillsTile: false
