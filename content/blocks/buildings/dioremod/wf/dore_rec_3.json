@@ -1,0 +1,17 @@
+category:units
+constructTime:1800
+consumes:{"power":13,"items":[plastanium/650,silicon/850,titanium/750]}
+health:84000
+localizedName: "intm_dioremod reconstructor t3" 
+requirements:[diamond/2000,lead/2000,phase-fabric/600,plastanium/450,silicon/1000,thorium/750,titanium/2000]
+research:dore_rec_2
+size:7
+type:Reconstructor
+upgrades:[
+[beetle,scarab],
+[destroyer,cruiser],
+[owl,falcon],
+[pixie,nymph],
+[scylla,charybdis]
+[tempest,hurricane]
+]

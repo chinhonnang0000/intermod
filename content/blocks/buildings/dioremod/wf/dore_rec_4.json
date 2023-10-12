@@ -1,0 +1,17 @@
+category:units
+constructTime:5400
+consumes:{"power":25,"items":[plastanium/600,silicon/1000,surge-alloy/500,phase-fabric/350]}
+health:175000
+localizedName: "intm_dioremod reconstructor t4" 
+requirements:[diamond/4000,lead/4000,phase-fabric/600,plastanium/600,silicon/3000,surge-alloy/800,thorium/1000]
+research:dore_rec_3
+size:9
+type:Reconstructor
+upgrades:[
+[charybdis,leviathan],
+[cruiser,battleship],
+[falcon,vulture],
+[hurricane,purger],
+[nymph,goblin],
+[scarab,cicada]
+]

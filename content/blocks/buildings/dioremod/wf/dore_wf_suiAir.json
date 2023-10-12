@@ -1,0 +1,14 @@
+{
+category:units
+configurable:false
+consumes:{"power":1.2}
+description: "Diamond Ore Mod SuiAir tier 1 Factory."
+health: 3600
+plans:[{"unit":"gnat","time":1200,"requirements":[blast-compound/1,diamond/1,plastanium/1,silicon/5]}]
+localizedName: "gnat factory"
+requirements:[copper/60,cryogem/60,diamond/60,lead/70]
+research:intm_dioremod_dore
+size:3
+type:UnitFactory
+unitCapModifier: 24
+}

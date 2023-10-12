@@ -1,0 +1,17 @@
+category:units
+constructTime:600
+consumes:{"power":3,"items":[graphite/40,silicon/40]}
+health:5400
+localizedName: "intm_dioremod reconstructor t1" 
+requirements:[diamond/200,copper/200,lead/120,silicon/90]
+research:intm_dioremod_dore
+size:3
+type:Reconstructor
+upgrades:[
+[gnat,firefly],
+[scout,fighter],
+[siren,serpent],
+[sparrow,crow],
+[spriite,gnome],
+[strike,storm],
+]
