@@ -1,0 +1,11 @@
+category:units
+configurable: false
+consumes:{"power":1.2}
+description: "produces the copper dagger only, compensates with 16 max units."
+localisedName: copper flare factory
+plans:[{"unit":"malc_a1a","time":900,"requirements":[copper/10,lead/10,silicon/10]}]
+requirements:[copper/60,lead/70]
+research:intm_malcalor
+size:3
+type:UnitFactory
+unitCapModifier: 8
