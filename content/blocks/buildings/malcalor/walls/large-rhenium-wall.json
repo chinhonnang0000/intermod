@@ -1,0 +1,9 @@
+{
+	"type": "Wall",
+	"name": "Large Rhenium Wall",
+	"category": "defense",
+	"requirements": [rhenium/24],
+research: rhenium-wall
+	"health": 2560,
+	"size": 2,
+}

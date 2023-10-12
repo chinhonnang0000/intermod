@@ -1,0 +1,9 @@
+{
+	"type": "Wall",
+	"name": "large super-alloy wall",
+	"category": "defense",
+"requirements": [super-alloy/54],
+research: malc_sa_wall_2
+	"health":9360,
+	"size":3,
+}
