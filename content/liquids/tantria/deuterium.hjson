@@ -1,7 +1,0 @@
-name: Deuterium
-description: A cold gas, can be used in unit assembly and as a coolant.
-research: oxygen-gas
-color: bab7e8
-gas: true
-temperature: -0.074
-research: oxygen-gas

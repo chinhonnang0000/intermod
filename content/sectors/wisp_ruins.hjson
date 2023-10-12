@@ -1,9 +1,0 @@
-{
-alwaysUnlocked:true,
-captureWave: 20
-difficulty: 5
-localizedName: "The Ruins"
-sector: 15
-planet:"intm_wisp_wisa"
-research:"intm_wisp_wisa"
-}

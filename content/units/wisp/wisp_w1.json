@@ -1,7 +1,0 @@
-description: "A walker derived from trash launcher"
-health: 330
-localizedName: "trash launcher walker"
-research:"wisp_wf_1"
-speed:0.5
-weapons:[{"bullet":{"damage":13,"speed":2.5},"range":100}]
-type:mech

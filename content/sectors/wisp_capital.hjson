@@ -1,9 +1,0 @@
-{
-captureWave: 30
-difficulty: 5
-localizedName:"The Capital"
-sector: 14
-planet: intm_wisp_wisa
-research: {"parent":"wisp_ruins",
-objectives: [{"type":"SectorComplete","preset":"wisp_ruins"}]}
-}

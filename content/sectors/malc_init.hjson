@@ -1,9 +1,0 @@
-{
-alwaysUnlocked:true,
-captureWave: 20
-difficulty: 5
-localizedName: "[#573837]Malcalor [#ffffff]initial plane"
-sector: 8
-planet:"intm_malcalor"
-research:"intm_malcalor"
-}

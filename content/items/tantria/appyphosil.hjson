@@ -1,9 +1,0 @@
-name: appyphosil
-description: These items are the remnants of the ancient creatures that lived here even before the Crux began to spread around Serpulo.
-color: CED45F
-explosiveness: 1.5
-flammability: 0.65
-radioactivity: 0.1
-charge: 0
-hardness: 3
-research: oxygen

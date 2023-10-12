@@ -1,8 +1,0 @@
-alwaysUnlocked: true
-captureWave: 11
-description: "the instruction to be able to launch core: ruin to other sectors. Intial core core-shard which is smaller. [#ffff00]low enemy presence"
-planet: intm_tantria_main
-sector: 27
-difficulty: 1
-research: intm_tantria_main
-localizedName:"tantria initial plane"

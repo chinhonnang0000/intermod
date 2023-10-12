@@ -1,9 +1,0 @@
-allowLaunchLoadout: true 
-allowLaunchSchematics: true
-alwaysUnlocked:false
-planet: intm_tantria_main
-sector: 1
-description: "A failed attempt to be the first stage of the game as the New Sumberged is too hard. This field will also be very difficult without loadouts"
-difficulty: 5
-localizedName: "Sector One"
-research: {"parent":"tantria_main_init","objectives":[{"type":"SectorComplete","preset":"tantria_main_init"}]}
