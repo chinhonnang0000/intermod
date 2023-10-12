@@ -1,0 +1,6 @@
+type: OreBlock
+itemDrop: diamond
+oreDefault: true
+variants: 6
+oreScale: 19.7
+oreThreshold: 0.91

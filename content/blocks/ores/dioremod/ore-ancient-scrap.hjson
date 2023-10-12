@@ -1,0 +1,7 @@
+type: OreBlock
+itemDrop: ancient-scrap
+
+variants: 6
+oreScale: 20
+oreDefault: true
+oreThreshold: 0.90
