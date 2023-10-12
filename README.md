@@ -7,7 +7,7 @@ this mods contains several mod remakes (WIP): Made prior to 2-factor authenticat
 - Wisp by RintaDev https://github.com/rintadev/wisp
 
 COPYRIGHT DISCLAIMER
-No sprites herein is changed. All sprites here belong to respective modders. 
+No sprites herein is changed UNLESS prompted by original modder via issues. All sprites here belong to respective modders. 
 Except the ones are added to fill up the oh no and the techs to make the mod campaign playable or to compensate for some bugs. 
 eg. nickel drills, super alloy walls. 
 
