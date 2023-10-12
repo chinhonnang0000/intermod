@@ -1,0 +1,17 @@
+"armor":100
+"category":crafting
+"consumes":{"liquids":[slag/0.0667],"power":1.1}
+"craftTime":32 
+"description":"seperates the slag into basic materials"
+"drawer":{"type":"DrawMulti","drawers":[
+{"type":"DrawRegion","suffix":"-btm"},
+{"type":"DrawLiquidTile","drawLiquid":"slag","drawLiquidLight":true},
+{"type":"DrawRegion","suffix":"-ro"},{"type":"DrawDefault"}
+]}
+"health":1000
+"localizedName": "malc_seperator_2"
+"requirements":[titanium/50,metaglass/40]
+"research":malc_sep_1
+"results":[cadmium/1,copper/1,lead/1,titanium/1,graphite/1,Nickel/1,rhenium/1,silicon/1,oblite/1,sand/9,]
+size:2
+"type": Separator

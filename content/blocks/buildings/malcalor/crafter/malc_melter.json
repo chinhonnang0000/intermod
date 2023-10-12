@@ -1,0 +1,17 @@
+"armor":5
+"category":crafting
+consumes:{"items":[scrap/1],"power":0.9}
+craftTime:10
+"description": melts scraps into slag. Exactly as it was, but more copper is used to increase hit points.  
+"drawer":{"type":"DrawMulti","drawers":[
+{"type":"DrawRegion","suffix":"-btm"},{"type":"DrawLiquidTile","drawLiquid":"slag"},{"type":"DrawDefault"}
+]}
+"hasLiquid":true
+"hasPower":true
+"health": 600,
+"localizedName": "copper heat shielded melter"
+outputLiquid:slag/0.2
+"requirements":[copper/55,lead/35,metaglass/45]
+"research": malc_kiln
+"size":1
+"type":GenericCrafter
