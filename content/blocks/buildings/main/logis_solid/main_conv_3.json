@@ -1,0 +1,9 @@
+description: "intm_main tier 3 conveyor"
+health:50
+localizedName: "Viscottite conveyor"
+requirements:[{"item":"main_03","amount":1}]
+research: main_viscottite_extractor
+size:1
+speed: 0.08
+displaySpeed:11
+type:Conveyor

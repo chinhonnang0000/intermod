@@ -1,0 +1,7 @@
+description: "intm_main tier 2 Router. still far weaker than standard router though"
+health:14
+localizedName: "soft wood router"
+requirements:[{"item":"main_02","amount":3}]
+research:main_junc_2
+size:1
+type:Router

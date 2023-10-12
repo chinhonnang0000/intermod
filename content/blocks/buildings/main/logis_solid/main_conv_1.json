@@ -1,0 +1,9 @@
+description: "intm_main tier 1 conveyor"
+health:4
+localizedName: "soild mud conveyor"
+requirements:[{"item":"main_mud_solid","amount":1}]
+research: main_mud_solidifier
+size:1
+speed: 0.0253
+displaySpeed:3.278
+type:Conveyor

@@ -1,0 +1,9 @@
+description: "intm_main tier 4 conveyor"
+health:179
+localizedName: "Viscottium conveyor"
+requirements:[{"item":"main_04","amount":1}]
+research: main_viscottium_smelter
+size:1
+speed: 0.1512
+displaySpeed:20.7
+type:Conveyor

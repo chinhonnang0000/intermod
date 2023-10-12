@@ -1,0 +1,7 @@
+description: "intm_main tier 3 junction. Slightly stronger than standard junction"
+health:50
+localizedName: "viscottite junction"
+requirements:[{"item":"main_03","amount":3}]
+research:main_conv_3
+size:1
+type:Junction

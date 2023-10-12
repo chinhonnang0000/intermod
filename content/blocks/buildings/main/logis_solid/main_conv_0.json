@@ -1,0 +1,9 @@
+description: "intm_main tier 0 conveyor. Made of soil"
+health:1
+localizedName: "soil conveyor"
+requirements:[{"item":"main_soil","amount":1}]
+research:intm_main
+size:1
+speed: 0.0119
+displaySpeed:1.639
+type:Conveyor

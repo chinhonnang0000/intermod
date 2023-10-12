@@ -1,0 +1,8 @@
+description: "intm_main tier 4 junction. Much stronger than standard junction"
+health:179
+localizedName: "viscottium junction"
+requirements:[{"item":"main_04","amount":3}]
+research:main_conv_4
+size:1
+speed:1
+type:Junction

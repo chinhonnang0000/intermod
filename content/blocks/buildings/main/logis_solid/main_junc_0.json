@@ -1,0 +1,7 @@
+description: "intm_main tier 0 junction .junction made of soil, How does soil hold itself? "
+health:1
+localizedName: "soil junction"
+requirements:[{"item":"main_soil","amount":3}]
+research:main_conv_0
+size:1
+type:Junction

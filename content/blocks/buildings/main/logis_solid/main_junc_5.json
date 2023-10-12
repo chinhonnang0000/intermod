@@ -1,0 +1,7 @@
+description: "intm_main tier 5 junction. Much stronger than standard junction"
+health:640
+localizedName: "doremium junction"
+requirements:[{"item":"main_05","amount":3}]
+research:main_conv_5
+speed:0.5
+type:Junction
