@@ -17,7 +17,7 @@ description: "clicking on Tantros crashed the game for some versions(including v
 credits: jasmarkelina,Gander,RouterXdd"
 drawOrbit: true
 fogOfWar: true
-generator:{"defaultLoadout":"tantria_core_ruin"}
+generator:SerpuloPlanetGenerator
 
 hasAtmosphere: true
 hiddenItems:[]
