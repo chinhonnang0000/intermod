@@ -1,0 +1,40 @@
+type: Reconstructor
+name: "Hovership Restructurer"
+size: 3
+health: 480
+description: "Upgrades Hovercrafts into the second tier."
+constructTime: 2625
+upgrades: [
+  [cough, fever]
+]
+consumes: {
+power: 2.941
+liquid:{
+    liquid: deuterium
+    amount: 1.80
+}
+items:{
+  items: [
+  oblite/75
+  Nickel/25
+  cadmium/50
+  oxygen/10
+  ]
+}
+}
+category: units
+research: {
+parent: cough
+objectives: [
+  {
+    type: OnSector
+    preset: tantria_main_frost-caynon
+  }
+  ]
+}
+requirements: [
+  Nickel/175
+  cadmium/100
+  oxygen/75
+  metaglass/25
+]
