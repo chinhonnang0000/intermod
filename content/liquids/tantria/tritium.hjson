@@ -1,0 +1,7 @@
+name: Tritium
+description: A Radioactive Gas. Typically used in Nuclear Fusion Reactors and Self-sufficient light sources.
+research: deuterium
+color: aaea91
+gas: true
+temperature: 0.5
+research: deuterium
