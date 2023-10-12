@@ -1,0 +1,15 @@
+description: "Not a bomber"
+flying:true
+fogRadius:26
+health:1020
+localizedName: Copper enforeced horizon
+range: 210
+research: malc_a1a
+speed: 2.47
+
+weapons:[
+{"bullet":{"type":"basicBulletType","speed":7,"splashDamageRadius":25,"splashDamage":27,"lifetime":60,"height":18,"damage":80},
+"reload":12,"top":false,"x":5,"y":2}
+{"bullet":{"type":"basicBulletType","speed":7,"splashDamageRadius":25,"splashDamage":27,"lifetime":60,"height":18,"damage":80},
+"reload":12,"top":false,"x":-5,"y":2}
+]

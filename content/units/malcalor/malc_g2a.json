@@ -1,0 +1,18 @@
+armor:12
+description: "enhanced structure allows for increased speed and hit points"
+health: 1650
+immunity:[burning]
+localizedName: Copper enforeced Mace
+range: 165
+research: malc_g1a
+speed: 0.75
+
+weapons:[
+{"bullet":{"type":"BulletType","status":"burning","statusDuration":240,"shootEffect":"shootSmallFlame","speed":6.3,"pierce":true,"pierceCap":3,
+"lifetime":13,"hitsize":7,"hitEffect":"hitFlameSmall","height":12,"damage":111},
+"shootSound":"flame","reload":11,"top":false,"x": 4,"y":2}
+
+{"bullet":{"type":"BulletType","status":"burning","statusDuration":240,"shootEffect":"shootSmallFlame","speed":6.3,"pierce":true,"pierceCap":3,
+"lifetime":13,"hitsize":7,"hitEffect":"hitFlameSmall","height":12,"damage":111},
+"shootSound":"flame","reload":11,"top":false,"x":-4,"y":2}
+]
