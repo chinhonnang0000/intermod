@@ -1,8 +1,0 @@
-category:liquid
-description: "as simple as the standard mechanical pump back in Serpulo" 
-health: 400
-localizedName:"simple diamond pump" 
-pumpAmount:0.3689 
-requirements:[diamond/15,metaglass/10]
-research: crystal-conduit
-type: Pump 
