@@ -1,0 +1,10 @@
+{
+canAttack:true
+description:"A flying unit nade of [grey]ancient scrap"
+flying:true
+health:100,
+"localizedName":"trash launcher wraith"
+research:"wisp_wf_1"
+speed:2
+weapons:[{bullet:{"damage":10,"speed":2.5},"range":80,reload:30}]
+}
