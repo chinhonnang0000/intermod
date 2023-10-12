@@ -1,0 +1,8 @@
+category: power
+health: 3600
+localizedName: "extra-large viscottium solar panel"
+powerProduction: 12 
+requirements:[main_03/350,main_04/160]
+research: main_sp_1c
+size:4
+type:solarGenerator
