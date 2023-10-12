@@ -1,0 +1,12 @@
+category: production
+description: "intm_main tier 5 small drill"
+drillTime: 150
+hasLiquid:false
+health: 640
+itemCapacity:30
+localizedName: "small doremium drill" 
+requirements:[main_05/3]
+research: main_doremium_extractor
+size:1
+tier:5
+type:Drill

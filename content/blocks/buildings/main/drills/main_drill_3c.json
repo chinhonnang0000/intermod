@@ -1,0 +1,12 @@
+category: production
+description: "intm_main tier 3 small drill"
+drillTime: 537
+hasLiquid:false
+health: 450
+itemCapacity: 45
+localizedName: "large viscottite drill" 
+requirements:[main_03/27]
+research: main_drill_3b
+size:3
+tier:3
+type:Drill

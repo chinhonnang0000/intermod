@@ -1,0 +1,12 @@
+category: production
+description: "intm_main tier 1 large drill"
+drillTime: 1897
+hasLiquid:false
+health: 36
+itemCapacity:9
+localizedName: "large dried mud drill" 
+research: main_drill_1b
+requirements:[main_mud_solid/27]
+size:3
+tier:1
+type:Drill
