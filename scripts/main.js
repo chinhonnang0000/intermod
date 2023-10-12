@@ -1,7 +1,7 @@
 //major content overhaul because this.drawer = null (game crash) upon start up 
-//require("wisp_wisa"); require("tantria"); require("malc"); require("hs_tionr"); 
+//require("wisp_wisa"); require("tantria"); require("hs_tionr"); 
 
-require("intm_main"); require("dore");
+require("malc"); require("intm_main"); require("dore");
 Events.on(ContentInitEvent, e =>
 { 
    // intermod to original contents
