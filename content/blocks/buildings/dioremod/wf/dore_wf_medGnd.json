@@ -1,0 +1,15 @@
+{
+armor:60
+category:units
+configurable:false
+consumes:{"power":1.2}
+description: "Diamond Ore Mod MedGnd tier 1 Factory."
+health: 3600
+plans:[{"unit":"spriite","time":2400,"requirements":[cryogem/10,diamond/5,phase-fabric/1,sand/20,silicon/5,titanium/25]}]
+localizedName: "sprite factory"
+requirements:[copper/50,cryogem/80,diamond/80,lead/120,silicon/80]
+research:intm_dioremod_dore
+size:3
+type:UnitFactory
+unitCapModifier: 24
+}

@@ -1,0 +1,14 @@
+{
+category:units
+configurable:false
+consumes:{"power":1.2}
+description: "Diamond Ore Mod SpoNav tier 1 Factory."
+health: 9000
+plans:[{"unit":"siren","time":1200,"requirements":[diamond/5,silicon/15,spore-pod/15,thorium/15]}]
+localizedName: "siren factory"
+requirements:[copper/150,cryogem/150,diamond/150,lead/130,metaglass/120]
+research:intm_dioremod_dore
+size:3
+type:UnitFactory
+unitCapModifier: 24
+}
