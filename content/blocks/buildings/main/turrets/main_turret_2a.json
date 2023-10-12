@@ -1,0 +1,19 @@
+ammoTypes:{
+copper:		{"ammoMultiplier":2, "damage":10,"height":5,"lifetime":50,"speed":3,"type":"basicBulletType"},
+lead:		{"ammoMultiplier":2, "damage": 7,"height":5,"lifetime":50,"speed":3,"type":"basicBulletType"},
+main_02:	{"ammoMultiplier":2, "damage": 4,"height":5,"lifetime":50,"speed":3,"type":"basicBulletType"},
+main_03:	{"ammoMultiplier":2, "damage":11,"height":5,"lifetime":50,"speed":3,"type":"basicBulletType"},
+main_mud_solid:	{"ammoMultiplier":2, "damage": 3,"height":5,"lifetime":50,"speed":3,"type":"basicBulletType"},
+}
+category:turret
+description: "slightly stronger than standard duo"
+health: 280
+inaccuracy:3
+localizedName:"Viscottite duo" 
+reload:48
+range:114
+research: main_viscottite_extractor
+requirements:[main_03/35]
+shoot:{"type":"ShootAlternate","shots":2,"shotDelay":15}
+size:1
+type:ItemTurret
