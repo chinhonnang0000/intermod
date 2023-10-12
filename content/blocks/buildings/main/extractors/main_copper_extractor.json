@@ -1,0 +1,13 @@
+category: production
+craftEffect:smeltsmoke
+craftTime: 600
+description: "Extracts copper from very deep deposits"
+health:1260
+localizedName: Copper Extractor
+outputItem: "copper/1"
+requirements:[main_02/250,main_mud_solid/150]
+research: intm_main
+size:3
+type:GenericCrafter
+
+ 
