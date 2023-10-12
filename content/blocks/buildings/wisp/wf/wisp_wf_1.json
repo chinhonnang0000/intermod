@@ -1,0 +1,18 @@
+{
+category:units
+consumes:{"power":1.6}
+description: "making unit out of ancient scraps"
+health:450
+localizedName:"ancient scrap war factory" 
+requirements:[ancientscrap/500]
+research:"intm_wisp_wisa"
+size: 3
+type:UnitFactory 
+
+plans:[
+{"unit":"wisp_a1",requirements:[ancientscrap/50],time:1000},
+{"unit":"wisp_t1",requirements:[ancientscrap/50],time:1000},
+{"unit":"wisp_w1",requirements:[ancientscrap/90],time:2000}
+]
+}
+
