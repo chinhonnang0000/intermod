@@ -1,0 +1,21 @@
+accessible:true
+allowLaunchSchematics:true
+allowLaunchLoadout: true
+allowLaunchSchematics: true
+allowSectorInvasion: true
+allowWaves: true
+allowWaveSimulation: true
+alwaysUnlocked: true
+
+description:"original mod: Diamond Ore Mod by z0mbiesrock, remake because the mode crash the game upon start up. However, this planet is addition."
+generator:SerpuloPlanetGenerator
+localizedName:"intm_dioremod d'ore"
+mesh:{"type":"SunMesh","radius":4.3,"mag":1.12,"colors":["4a54a0","505050","616167","f4abfd","352765","5c17d4","382574"],"divisions":7}
+orbitRadius: 124
+parent:sun
+radius: 4.13 
+research:{"root":true,"name":"intm_dioremod_dore","requiresUnlock":false,"planet":"intm_dioremod_dore"}
+sectorSize:4
+solarSystem:sun
+updateLighting:true
+visible:true

@@ -1,0 +1,56 @@
+accessible:true,
+allowLaunchLoadout: true
+allowLaunchSchematics: true
+allowSectorInvasion: true
+allowWaves: true
+allowWaveSimulation: true
+alwaysUnlocked: true
+atmosphereColor: 3db899
+atmosphereRadIn: -0.01
+atmosphereRadOut: 0.3
+bloom: false
+camRadius: 0.4
+clearSectorOnLose: false
+defaultCore: core-shard,
+description: "this tree starts from nothing at all. Providing a shitty alternative techs in mods that are not playable. Each tier is far more powerful than last. 
+It is not meant to be overpowered except ln later tiers"
+drawOrbit: true,
+
+generator:{
+alt: true
+baseseed:223
+berylChance:0.20
+carbonChance:0.20
+ferricChance:0.20
+iceChance:0.12
+max: 999
+min: 600
+octaves: 1
+radMax: 620
+radMin: 225
+persistance:0.09
+scl:4.52
+seed:125
+type:SerpuloPlanetGenerator
+waterOffset:0.05
+}
+
+hasAtmosphere: true
+hiddenItems:[]
+iconColor: 123abc
+launchCandidates: []
+localizedName:intm_main
+mesh:{type:SunMesh, seed: 134 ,divisions: 8, colors:[d23424,234331,e3e112,f43422,897971,ed3442,908f21]},
+
+minZoom: 0.17
+orbitRadius: 70
+orbitSpacing: 140
+parent: sun,
+radius: 5.20,
+research:{"root":true,"name":"intermod - start from nothing at all","requiresUnlock":false,"planet":"intm_main"}
+sectorSeed: 982329
+sectorSize: 4,
+solarSystem: sun
+startSector: 0,
+updateLighting: true
+visible: true

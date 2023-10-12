@@ -1,0 +1,59 @@
+{
+accessible:true,
+allowLaunchLoadout: true
+allowLaunchSchematics: true
+allowSectorInvasion: true
+allowWaves: true
+allowWaveSimulation: true
+alwaysUnlocked: true
+atmosphereColor: f3a8ff
+atmosphereRadIn: 0.05
+atmosphereRadOut: 0.25
+bloom: false
+camRadius: 0.4
+clearSectorOnLose: false
+defaultCore: core-shard
+description: "trying to restore the oroiginal mod\n\n credits: RintaDev"
+drawOrbit: true
+
+generator:{
+alt: true
+baseseed:223
+berylChance:0.20
+carbonChance:0.20
+ferricChance:0.20
+iceChance:0.12
+max: 999
+min: 600
+octaves: 1
+radMax: 620
+radMin: 225
+persistance:0.09
+scl:4.52
+seed:125
+type:SerpuloPlanetGenerator
+waterOffset:0.05
+}
+
+hasAtmosphere: true
+hiddenItems:[]
+iconColor: ffffff
+launchCandidates: []
+localizedName:intm_misp_wisa
+mesh:{"color1":"515151","color2":"3c3838","divisions":5,"type":"NoiseMesh"},
+
+minZoom: 0.17
+orbitRadius: 25
+orbitTime:250
+orbitSpacing: 140
+parent: sun
+radius: 1,
+research:{"root":true,"name":"intm_wisp_wisa","requiresUnlock":false,"planet":"intm_wisp_wisa"}
+rotateTime:100
+sectorSeed: 982329
+sectorSize: 1,
+solarSystem: sun
+startSector: 0,
+updateLighting: true
+visible:true
+}
