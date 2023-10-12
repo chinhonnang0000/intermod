@@ -1,7 +1,7 @@
 author: chinhonnang0000
 displayName: intermod
 dependencies:[]
-description: "remakes mods that no longer work. " 
+description: "remakes mods that no longer work. Major content overhaul due to startup error this.drawer = null" 
 hidden:false
 name:"intermod"
 minGameVersion: 141
