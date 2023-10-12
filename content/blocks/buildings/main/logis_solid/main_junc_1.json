@@ -1,7 +1,0 @@
-description: "intm_main tier 1 junction. Far stronger than tier 0 but still far weaker than standard junction"
-health:4
-localizedName: "dried mud junction"
-requirements:[{"item":"main_mud_solid","amount":3}]
-research:main_conv_1
-size:1
-type:Junction

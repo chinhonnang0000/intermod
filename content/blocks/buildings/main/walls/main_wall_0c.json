@@ -1,8 +1,0 @@
-armor:3
-category:defense
-health:63
-localizedName: "large soil wall"
-requirements:["main_soil/54"]
-research: main_wall_0b
-size: 3
-Type: Wall

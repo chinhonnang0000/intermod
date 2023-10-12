@@ -1,8 +1,0 @@
-category: power
-health: 179
-localizedName: "small viscottium solar panel"
-powerProduction: 0.35 
-research: main_viscottium_smelter
-requirements:[main_03/15,main_04/10]
-size:1
-type:solarGenerator

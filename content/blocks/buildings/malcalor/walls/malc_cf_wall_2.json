@@ -1,9 +1,0 @@
-{
-	"type": "Wall",
-	"name": "medium carbon fibre wall",
-	"category": "defense",
-"requirements": [carbon_fibre/24],
-research: malc_cf_wall_1
-	"health":6600,
-	"size": 2,
-}

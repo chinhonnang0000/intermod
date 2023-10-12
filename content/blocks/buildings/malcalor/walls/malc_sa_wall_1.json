@@ -1,9 +1,0 @@
-{
-	"type": "Wall",
-	"name": "small super-alloy wall",
-	"category": "defense",
-"requirements": [super-alloy/6],
-research: alloy-compressor
-	"health":1040,
-	"size":1,
-}

@@ -1,8 +1,0 @@
-description: "bridge conveyor made of soft wood"
-health:14
-localizedName: "soft wood bridge conveyor"
-range:3 
-requirements:[{"item":"main_02","amount":12}]
-research: main_rout_2
-size:1
-type:ItemBridge

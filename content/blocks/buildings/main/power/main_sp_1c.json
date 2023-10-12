@@ -1,8 +1,0 @@
-category: power
-health: 1800
-localizedName: "large viscottium solar panel"
-powerProduction: 6 
-requirements:[main_03/175,main_04/90]
-research: main_sp_1b
-size:3
-type:solarGenerator

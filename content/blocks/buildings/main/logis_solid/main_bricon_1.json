@@ -1,8 +1,0 @@
-description: "bridge conveyor made of solid mud"
-health:4
-localizedName: "solid mud bridge conveyor"
-range:2 
-requirements:[{"item":"main_mud_solid","amount":12}]
-research: main_rout_1
-size:1
-type:ItemBridge

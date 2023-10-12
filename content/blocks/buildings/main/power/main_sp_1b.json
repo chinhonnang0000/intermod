@@ -1,8 +1,0 @@
-category: power
-health: 720
-localizedName: "medium viscottium solar panel"
-powerProduction: 2.35 
-requirements:[main_03/75,main_04/40]
-research: main_sp_1a
-size:2
-type:solarGenerator

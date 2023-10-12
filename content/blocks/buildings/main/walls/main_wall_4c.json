@@ -1,8 +1,0 @@
-armor:21
-category:defense
-health:11475
-localizedName: "large viscottium wall"
-requirements:["main_04/54"]
-research: main_wall_4b
-size: 3
-Type: Wall

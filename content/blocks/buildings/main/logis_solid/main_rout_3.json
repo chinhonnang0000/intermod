@@ -1,7 +1,0 @@
-description: "intm_main tier 3 Router.slightly stronger than standard router"
-health:50
-localizedName: "viscottite router"
-requirements:[{"item":"main_03","amount":3}]
-research:main_junc_3
-size:1
-type:Router

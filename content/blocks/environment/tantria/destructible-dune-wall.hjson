@@ -1,4 +1,0 @@
-type: staticWall
-instantDeconstruct: false
-destructible: true
-variants: 1

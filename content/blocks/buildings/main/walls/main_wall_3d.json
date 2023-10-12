@@ -1,8 +1,0 @@
-armor:20
-category:defense
-health:6400
-localizedName: "extra-large viscottite wall"
-requirements:["main_03/96"]
-research: main_wall_3c
-size: 4
-Type: Wall

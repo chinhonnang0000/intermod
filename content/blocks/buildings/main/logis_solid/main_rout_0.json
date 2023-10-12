@@ -1,7 +1,0 @@
-description: "intm_main tier 1 Router. made of soil, How does soil hold itself? "
-health:1
-localizedName: "soil router"
-requirements:[{"item":"main_soil","amount":3}]
-research:main_junc_0
-size:1
-type:Router
