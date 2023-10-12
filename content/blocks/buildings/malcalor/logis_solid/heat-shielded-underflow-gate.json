@@ -1,0 +1,17 @@
+{
+	"type": "OverflowGate",
+	"name": "Heat Shielded Underflow Gate",
+	"category": "distribution",
+research: intm_malcalor
+	
+	"invert": true
+
+	
+	
+	"requirements": [
+		"copper/1",
+	],
+
+	"health": 90,
+	"size": 1,
+}

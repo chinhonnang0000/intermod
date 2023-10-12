@@ -1,0 +1,16 @@
+{
+	"type": "Sorter",
+	"name": "Heat Shielded Sorter",
+	"category": "distribution",
+research: intm_malcalor
+	
+	"hasItems": true,
+	
+	
+	"requirements": [
+		"copper/1",
+	],
+
+	"health": 90,
+	"size": 1,
+}
