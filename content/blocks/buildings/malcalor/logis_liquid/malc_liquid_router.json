@@ -1,0 +1,8 @@
+category:"liquid"
+description: "enforced with copper"
+health:140
+localizedName:"heat shielded liquid router"
+requirements:[{"item":"copper","amount":1},{"item":"metaglass","amount":2}]
+research:"malc_conduit"
+solid:false
+type:LiquidRouter
