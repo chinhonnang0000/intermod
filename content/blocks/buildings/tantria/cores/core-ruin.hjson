@@ -1,0 +1,15 @@
+name: "Core: Ruin"
+description: "Core of the base. Once destroyed, the sector is Lost. Armored to withstand great water pressure."
+armor: 6
+fogRadius: 75
+type: CoreBlock
+health: 4600
+isFirstTier: true
+size: 4
+itemCapacity: 4500
+category: effect
+unitCapModifier: 14
+unitType: recuperate
+alwaysUnlocked: true
+research:{"parent":"intm_tantria_main"}
+requirements: [Nickel/1500]
