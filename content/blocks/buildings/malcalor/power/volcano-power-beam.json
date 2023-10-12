@@ -1,0 +1,21 @@
+{
+	"type": "BeamNode",
+	"name": "Power Beam",
+	"category": "power",
+	
+	"outputsPower": true
+	
+	"range": 25
+	
+	"laserColor1": "ffffff"
+	"laserColor2": "FD8181"
+	
+	"requirements": [
+		"silicon/75",
+		"lead/150",
+		"metaglass/75"
+	],
+research: intm_malcalor
+	"health": 90,
+	"size": 1,
+}
