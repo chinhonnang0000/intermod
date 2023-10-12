@@ -1,0 +1,13 @@
+planet: intm_tantria_main
+sector: 7
+difficulty: 7
+research: {
+parent: "tantria_main_skopelos"
+objectives: [
+    {
+      type: SectorComplete
+      preset: "tantria_main_skopelos"
+    }
+  ]
+}
+localizedName:"Frost Canyon"

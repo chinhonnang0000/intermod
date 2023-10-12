@@ -1,0 +1,12 @@
+{
+sector: 75,
+planet: "intm_main",
+research: {
+      parent: "intm_main",
+},
+captureWave: 6,
+localizedName:"main_init" 
+difficulty: 1,
+description: "int_main init"
+alwaysUnlocked: true
+}

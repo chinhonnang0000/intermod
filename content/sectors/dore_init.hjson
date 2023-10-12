@@ -1,0 +1,12 @@
+{
+sector: 675,
+planet: "intm_dioremod_dore",
+research: {
+      parent: "intm_dioremod_dore",
+},
+captureWave: 60,
+localizedName:"dore_init" 
+difficulty: 9,
+description: "It is recommended that you finish the original campaign first. 180 summoning tiles"
+alwaysUnlocked: true
+}

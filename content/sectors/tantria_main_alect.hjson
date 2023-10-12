@@ -1,0 +1,12 @@
+planet: intm_tantria_main
+sector: 41
+difficulty: 6
+research: {
+parent: "tantria_main_frost-caynon"
+objectives: [
+    {
+      type: SectorComplete
+      preset: "tantria_main_frost-caynon"
+    }
+  ]
+}

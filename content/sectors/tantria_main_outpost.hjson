@@ -1,0 +1,13 @@
+planet: intm_tantria_main
+sector: 84
+difficulty: 5
+research: {
+parent: "tantria_main_underwater-swamp"
+objectives: [
+    {
+      type: SectorComplete
+      preset: "tantria_main_underwater-swamp"
+    }
+  ]
+}
+localizedName: "Outpost"
