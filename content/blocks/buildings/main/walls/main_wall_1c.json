@@ -1,0 +1,8 @@
+armor:6
+category:defense
+health:225
+localizedName: "large dried mud wall"
+requirements:["main_mud_solid/54"]
+research: main_wall_1b
+size: 3
+Type: Wall

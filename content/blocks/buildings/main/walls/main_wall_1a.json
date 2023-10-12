@@ -1,0 +1,8 @@
+armor:2
+category:defense
+health:25
+localizedName: "samll dried mud wall"
+requirements:["main_mud_solid/6"]
+research: main_mud_solidifier
+size: 1
+Type: Wall

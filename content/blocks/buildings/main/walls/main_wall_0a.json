@@ -1,0 +1,8 @@
+armor:1
+category:defense
+health:7
+localizedName: "small soil wall"
+requirements:["main_soil/6"]
+research: main_soil_extractor
+size: 1
+Type: Wall

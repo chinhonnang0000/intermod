@@ -1,0 +1,8 @@
+armor:4
+category:defense
+health:120
+localizedName: "extra-large soil wall"
+requirements:["main_soil/96"]
+research: main_wall_0c
+size: 4
+Type: Wall
