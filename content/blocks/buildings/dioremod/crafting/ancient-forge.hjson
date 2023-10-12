@@ -31,16 +31,7 @@ consumes: {
     ]
   }
 }
-requirements: [
-  copper/2300
-  silicon/275
-  metaglass/750
-  thorium/350
-  diamond/1000
-  surge-alloy/450
-  phase-fabric/450
-  cryogem/400
-]
+requirements: [copper/2300,silicon/275,metaglass/750,thorium/350,diamond/1000,surge-alloy/450,phase-fabric/450,cryogem/400]
 category: crafting
 research: ancient-refinery
 loopSound: machine
