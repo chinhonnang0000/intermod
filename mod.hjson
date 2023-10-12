@@ -7,4 +7,4 @@ name:"intermod"
 minGameVersion: 141
 version: build 0
 repo: "chinhonnang0000/intermod"
-subtitle: "Major content overhaul"
+subtitle: "Major content overhaul due to startup error this.drawer = null"
