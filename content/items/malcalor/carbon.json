@@ -1,0 +1,10 @@
+{
+	"type": "Item",
+	"name": "Carbon",
+	"color": "2b2b2b",
+	"explosiveness": 0,
+	"flammability": 0.3,
+	"radioactivity": 0,
+	"hardness": 0.3,
+	"cost": 1,
+}
