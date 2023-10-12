@@ -1,0 +1,45 @@
+localizedName: "Sauron"
+flying: true
+description: "Shoots medium orbs at targets like the Cralias, but it can shoot omnidirectionally"
+health: 945
+targetGround: true
+targetAir: true
+armor: 5
+weapons:[
+{
+name: invisible
+x: 0
+y: -8
+recoil: 2
+reload: 125
+mirror: false
+shootY: 0
+shootSound: shootsmite
+rotate: true
+rotateSpeed: 15.06
+bullet: {
+   type: MissileBulletType
+   sprite: large-orb
+   backColor: B99AE8
+   frontColor: ffffff
+   width: 8
+   height: 8
+   damage: 75
+   splashDamage: 15
+   splashDamage: 15
+   collidesTeam: false
+   speed: 7
+   lifetime: 60
+   drag: 0.03
+   homingDelay: 5
+   homingRange: 90
+   trailWidth: 3
+   trailLength: 20
+   trailColor: B99AE8
+   trailEffect: hitBulletColor
+}
+}
+]
+research: {
+parent: mobura
+}
