@@ -35,7 +35,6 @@ For example if Tantria "works" again, minimum 3 tiers and 10 missions will be ad
 
 #To do list mods: 
 - Exhiber (Players never wins on field 15 on planet exhiber)
-- Prismatic (crahses upon start up)
 - Saturation Firepower by RA2 (content errors caught in main menu)
 
 
