@@ -31,7 +31,7 @@ orbitRadius: 60
 orbitSpacing: 140
 parent: sun,
 radius: 5.1,
-research:{"root":true,"name":"intm_tantria_main","requiresUnlock":false,"planet":"intm_tantria_main"}
+research:{"root":true,"name":"intm_tantria tantros","requiresUnlock":false,"planet":"intm_tantria_main"}
 sectorSeed: 943209
 sectorSize: 4,
 solarSystem: sun
