@@ -14,7 +14,7 @@ mesh:{"type":"SunMesh","radius":4.3,"mag":1.12,"colors":["4a54a0","505050","6161
 orbitRadius: 124
 parent:sun
 radius: 4.13 
-research:{"root":true,"name":"intm_dioremod_dore","requiresUnlock":false,"planet":"intm_dioremod_dore"}
+research:{"root":true,"name":"intm_dioremod D'ore","requiresUnlock":false,"planet":"intm_dioremod_dore"}
 sectorSize:4
 solarSystem:sun
 updateLighting:true
