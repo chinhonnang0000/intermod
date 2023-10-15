@@ -27,7 +27,10 @@ For example if Tantria "works" again, minimum 3 tiers and 10 missions will be ad
 #current affairs: Deletes once completed. 
 - Diamond Ore mod (intm_dioremod) New planet - intm_dioremod dore. Tech trees reworks. 
 - Diamond Ore mod (intm_dioremod) unit patch up and may end up the different working form the oroginal one. 
-- intm_main tier 2 doremium solar panels (system tier 5), germanium extractor mender in system tier 5. 
+- intm_main tier 2 doremium solar panels (system tier 5), germanium extractor mender in system tier 5.
+
+Currebt bugs 
+- Ancient scrap has texture in wrong folder problem. 
 
 #porposed furhter content for the wip sub-mods. 
 - intm_wisp(Wisp by RintaDev) extension, according to the original mod developer. 
