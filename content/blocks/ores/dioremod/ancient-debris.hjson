@@ -3,4 +3,5 @@ localizedName: Ancient Debris
 name: Ancient Debris
 itemDrop: ancient-alloy
 oreDefault: true
-variants: 8
+variants: 6
+// the texture problem might be because the problem is having more than 6 variants? in Github version? 
