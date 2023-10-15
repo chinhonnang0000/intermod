@@ -20,7 +20,7 @@ research:{
 // currently fixing the range issues 
 weapons:[
 {
-"bullet":{"damage":25,"lieftime":70,"smokeEffect":"hitFuse","speed":24,"status":"shocked","statusDuration":30},
+"bullet":{"damage":25,"lieftime":70,"smokeEffect":"hitFuse","speed":24,"status":"shocked","statusDuration":30,"type":"basicBulletType"},
 "inaccuracy":0,"rotate":false,"shootCone":30,"name":"strike-bolt","range":280,"reload":45,"shots":1,"x":0,"y":7
 }
 ]
