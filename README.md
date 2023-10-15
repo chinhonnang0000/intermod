@@ -30,7 +30,7 @@ For example if Tantria "works" again, minimum 3 tiers and 10 missions will be ad
 - intm_main tier 2 doremium solar panels (system tier 5), germanium extractor mender in system tier 5.
 
 Currebt bugs 
-- Ancient scrap has texture in wrong folder problem. 
+- Ancient debris has texture in wrong folder problem. 
 
 #porposed furhter content for the wip sub-mods. 
 - intm_wisp(Wisp by RintaDev) extension, according to the original mod developer. 
