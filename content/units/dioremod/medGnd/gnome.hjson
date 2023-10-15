@@ -32,7 +32,9 @@ engineSize: 3
 canBoost: false
 hovering: true
 
-//weapons:[] this unit has scripted weaponry
+weapons:[
+  {"type":"repairBeamWeapon","bullet":{"maxRange":144}}
+] 
 
 research:{
   parent: spriite
