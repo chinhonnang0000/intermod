@@ -33,7 +33,7 @@ canBoost: false
 hovering: true
 
 weapons:[
-  {"type":"repairBeamWeapon","bullet":{"maxRange":144}}
+  {"type":"repairBeamWeapon","repairSpeed":1.5,"bullet":{"maxRange":144}}
 ] 
 
 research:{
