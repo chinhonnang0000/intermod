@@ -4,5 +4,3 @@ name: Ancient Debris
 itemDrop: ancient-alloy
 oreDefault: true
 variants: 8
-oreScale: 9
-oreThreshold: 0.96
