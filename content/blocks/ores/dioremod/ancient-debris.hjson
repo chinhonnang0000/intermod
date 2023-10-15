@@ -3,5 +3,9 @@ localizedName: Ancient Debris
 name: Ancient Debris
 itemDrop: ancient-alloy
 oreDefault: true
-variants: 6
+oreScale: 20
+variants: 8 
+
+// debug notes. 
 // the texture problem might be because the problem is having more than 6 variants? in Github version? 
+// No. Problem still persist after changing to 6. However, they appear to be fine in the editor. 
