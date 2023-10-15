@@ -32,7 +32,9 @@ engineSize: 2
 canBoost: false
 hovering: true
 
-//weapons:[] this unit has scripted weaponry
+weapons:[
+  {"type":"repairBeamWeapon","repairSpeed":1.5,"bullet":{"maxRange":74}}
+]
 
 research:{
   parent: dore_wf_medGnd
