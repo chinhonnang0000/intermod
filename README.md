@@ -33,7 +33,7 @@ For example if Tantria "works" again, minimum 3 tiers and 10 missions will be ad
 - intm_wisp(Wisp by RintaDev) extension, according to the original mod developer. 
 
 #To do list mods: 
-- Exhiber (Players never wins on field 15 on planet exhiber)
-- Saturation Firepower by RA2 (content errors caught in main menu)
+- Exhiber (Players never wins on field 15 on planet exhiber, autolose)
+- Saturation Firepower by RA2 (content errors caught in main menu) - delayed due to gitHub activities. Hopefully the original mod get fixed before completing the intm_dioremod debugs and intm_exhiber  
 
 
