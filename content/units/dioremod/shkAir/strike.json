@@ -1,9 +1,10 @@
 localizedName: Strike
 description: Fires instantaneous electron bolts at nearby enemies. Strafes.
+lealth:80 // original hit point. 
 speed: 1.8
-//lightRadius: 13
-//lightOpacity: 1.174
-//lightColor: ffff00
+lightRadius: 13
+lightOpacity: 1.174
+lightColor: ffff00
 immunities: [wet, shocked, sapped, spore-slowed]
 flying: true
 
@@ -20,7 +21,7 @@ research:{
 // currently fixing the range issues 
 weapons:[
 {
-"bullet":{"damage":25,"lieftime":70,"smokeEffect":"hitFuse","speed":24,"status":"shocked","statusDuration":30,"type":"basicBulletType"},
+"bullet":{"damage":25,"lieftime":70,"smokeEffect":"hitFuse","speed":7,"status":"shocked","statusDuration":30,"type":"basicBulletType"},
 "inaccuracy":0,"rotate":false,"shootCone":30,"name":"strike-bolt","range":280,"reload":45,"shots":1,"x":0,"y":7
 }
 ]
