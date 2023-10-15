@@ -1,12 +1,17 @@
-type: OverlayFloor
+type: OreBlock 
 localizedName: Ancient Debris
 name: Ancient Debris
 itemDrop: ancient-alloy
 oreDefault: true
 oreScale: 20
 variants: 8 
+wallOre: true
+
 
 // debug notes. 
 // the texture problem might be because the problem is having more than 6 variants? in Github version? 
 // No. Problem still persist after changing to 6. However, they appear to be fine in the editor. 
 // adding OreScale did not fix the problem. 
+
+// change notes: 
+Adding new blocks: Now available on walls. 
