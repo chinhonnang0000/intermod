@@ -1,19 +1,10 @@
 localizedName: Strike
 description: Fires instantaneous electron bolts at nearby enemies. Strafes.
 speed: 1.8
-rotateSpeed: 8
 lightRadius: 13
 lightOpacity: 1.174
 lightColor: ffff00
-health: 80
-range: 280
-itemCapacity: 20
-hitSize: 9
 immunities: [wet, shocked, sapped, spore-slowed]
-engineOffset: 0
-engineSize: 0
-lowAltitude: true
-destructibleWreck: false
 flying: true
 
 research:{
