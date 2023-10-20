@@ -12,3 +12,4 @@
   "tileDamageMultiplier":0.5
   "trailChance":1
 }
+// currently Mindustry does not work with bullets. saying : There is no parsers for bullet type
