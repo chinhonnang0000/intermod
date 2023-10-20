@@ -33,13 +33,13 @@ hovering: true
 
 weapons:[
 {"y":-6,"x":-6,"type":"Weapon","top":false,"shots":1,"rotateSpeed":8,"reload":27,"name":"pixie-bolt","inaccuracy":0,
-"bullet":{"trailChance":1,"speed":4,"pierceBuilding":true,"pierce":true,"lightRadius":8,"lifetime":50,"damage":30}},
+"bullet":{"type":"BasicBulletType","trailChance":1,"speed":4,"pierceBuilding":true,"pierce":true,"lightRadius":8,"lifetime":50,"damage":30}},
 {"y":-6,"x":6,"type":"Weapon","top":false,"shots":1,"rotateSpeed":8,"reload":27,"name":"pixie-bolt","inaccuracy":0,
-"bullet":{"trailChance":1,"speed":4,"pierceBuilding":true,"pierce":true,"lightRadius":8,"lifetime":50,"damage":30}}, 
+"bullet":{"type":"BasicBulletType","trailChance":1,"speed":4,"pierceBuilding":true,"pierce":true,"lightRadius":8,"lifetime":50,"damage":30}}, 
 {"y":6,"x":-6,"type":"Weapon","top":false,"shots":1,"rotateSpeed":8,"reload":27,"name":"pixie-bolt","inaccuracy":0,
-"bullet":{"trailChance":1,"speed":4,"pierceBuilding":true,"pierce":true,"lightRadius":8,"lifetime":50,"damage":30}}, 
+"bullet":{"type":"BasicBulletType","trailChance":1,"speed":4,"pierceBuilding":true,"pierce":true,"lightRadius":8,"lifetime":50,"damage":30}}, 
 {"y":6,"x":6,"type":"Weapon","top":false,"shots":1,"rotateSpeed":8,"reload":27,"name":"pixie-bolt","inaccuracy":0,
-"bullet":{"trailChance":1,"speed":4,"pierceBuilding":true,"pierce":true,"lightRadius":8,"lifetime":50,"damage":30}}, 
+"bullet":{"type":"BasicBulletType","trailChance":1,"speed":4,"pierceBuilding":true,"pierce":true,"lightRadius":8,"lifetime":50,"damage":30}}, 
 ] 
 
 research:{
