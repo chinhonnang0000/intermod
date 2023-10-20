@@ -3,8 +3,6 @@ description: Fires a barrage of fragmenting energy torpedoes and massive artille
 commandLimit: 8
 speed: 0.87
 boostMultiplier: 0.95
-drag: 0.4
-accel: 0.5
 rotateSpeed: 0.75
 baseRotateSpeed: 1.25
 buildSpeed: 6
