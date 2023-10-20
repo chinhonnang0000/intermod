@@ -3,10 +3,6 @@ description: Fires piercing energy torpedoes that damage enemies and repair alli
 commandLimit: 8
 speed: 0.45
 boostMultiplier: 2.25
-drag: 0.4
-accel: 0.5
-rotateSpeed: 3.5
-baseRotateSpeed: 4.2
 buildSpeed: 2
 buildBeamOffset: 0
 lightRadius: 45
