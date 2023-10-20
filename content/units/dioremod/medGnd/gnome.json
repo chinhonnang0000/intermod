@@ -1,10 +1,7 @@
 localizedName: Gnome
 description: Repairs nearby damaged units more efficiently than a Repair Field ability, but can only repair one unit at a time. Can step over most terrain. Does not attack.
-commandLimit: 8
 speed: 0.55
 boostMultiplier: 1.25
-drag: 0.4
-accel: 0.5
 rotateSpeed: 3.5
 baseRotateSpeed: 4.2
 buildSpeed: 1
