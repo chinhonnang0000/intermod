@@ -37,7 +37,7 @@ hovering: true
 
 weapons:[
 {"y":-16,"x":-16,"type":"Weapon","top":true,"shots":1,"rotateSpeed":4,"reload":72,"name":"goblin-launcher","inaccuracy":0,
-"bullet":{"width":16,"trailChance":1,"trailEffect":"mine","splashRadius":25,"splashDamage":30,"speed":6.7,"lightRadius":17,"lifetime":55,"height":16,"fragBullets":8,"damage":20,
+"bullet":{"width":16,"trailChance":1,"trailEffect":"mine","splashDamageRadius":25,"splashDamage":30,"speed":6.7,"lightRadius":17,"lifetime":55,"height":16,"fragBullets":8,"damage":20,
 "fragBullet":{"width":4,"pierrceBuildings":true,"pierce":true,"lightRadius":4,"lifetime":80,"hitEffect":"smeltsmoke","height":4,"damage":12}}},
 
 ]
