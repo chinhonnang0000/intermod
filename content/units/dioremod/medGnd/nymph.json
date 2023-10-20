@@ -38,7 +38,12 @@ engineSize: 2
 canBoost: false
 hovering: true
 
-//weapons:[] this unit has scripted weaponry
+weapons:[
+{"type":"Weapon","top":false,"shots":1,"rotateSpeed":8,"reload":27,"name":"pixie-bolt",
+"bullet":{"speed":4,"lifetime":50,"damage":30}},
+{"type":"Weapon","top":false,"shots":1,"rotateSpeed":8,"reload":27,"name":"pixie-bolt",
+"bullet":{"speed":4,"lifetime":50,"damage":30}}
+]
 
 research:{
   parent: pixie
