@@ -1,0 +1,14 @@
+category: production
+consumes: {power:2}
+craftEffect:smeltsmoke
+craftTime: 600
+description: "Extracts germanium from soil"
+health:12600
+localizedName: germanium Extractor
+outputItem: "main_germanium/2"
+requirements:[main_05/500,main_04/300]
+research: intm_main
+size:4
+type:GenericCrafter
+
+ 
