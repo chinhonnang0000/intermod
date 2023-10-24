@@ -1,13 +1,13 @@
 category:crafting
 consumes:{"items":[main_soil/10],"power":3}
 craftTime:120
-description:"Supplementary for Project Viscott - auditory node."
+description:"Supplementary for Project Viscott - auditory node. This tech tree is no longer needed for that Project Viscott v0.1.9 or later.""
 
 drawer:{"type":"DrawMulti","drawers":
 [{"type":"DrawDefault"},{"type":"DrawArcSmelt"}]
 }
 health: 1500
-localizedName:"silicon arc for Project Viscott V0.1.8 or earlier. This tech tree is no longer needed for that mod v0.1.9 or later."
+localizedName:"silicon arc for Project Viscott V0.1.8 or earlier."
 outputItem:"silicon/3"
 requirements: [main_04/50,main_03/20,main_02/40]
 research: intm_main
