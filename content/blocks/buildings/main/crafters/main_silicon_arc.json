@@ -1,7 +1,7 @@
 category:crafting
 consumes:{"items":[main_soil/10],"power":3}
 craftTime:120
-description:"Supplementary for Project Viscott - auditory node. This tech tree is no longer needed for that Project Viscott v0.1.9 or later.""
+description:"Supplementary for Project Viscott - auditory node. This tech tree is no longer needed for that Project Viscott v0.1.9 or later."
 
 drawer:{"type":"DrawMulti","drawers":
 [{"type":"DrawDefault"},{"type":"DrawArcSmelt"}]
