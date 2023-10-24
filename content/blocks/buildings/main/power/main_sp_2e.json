@@ -1,0 +1,8 @@
+category: power
+health: 25600
+localizedName: "XXL doremium solar panel"
+powerProduction: 80 
+research: main_sp_2d
+requirements:[main_03/900,main_germanium/900,main_05/250]
+size:5
+type:solarGenerator

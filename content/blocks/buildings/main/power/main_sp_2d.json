@@ -1,0 +1,8 @@
+category: power
+health: 12800
+localizedName: "extra-large doremium solar panel"
+powerProduction: 40 
+research: main_sp_2c
+requirements:[main_03/450,main_germanium/450,main_05/160]
+size:4
+type:solarGenerator

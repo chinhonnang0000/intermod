@@ -1,0 +1,8 @@
+category: power
+health: 2560
+localizedName: "medium doremium solar panel"
+powerProduction: 6 
+research: main_sp_2a
+requirements:[main_03/75,main_germanium/75,main_05/40]
+size:2
+type:solarGenerator

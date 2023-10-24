@@ -1,0 +1,8 @@
+category: power
+health: 640
+localizedName: "small doremium solar panel"
+powerProduction: 1 
+research: main_doremium_extractor
+requirements:[main_03/15,main_germanium/15,main_05/10]
+size:1
+type:solarGenerator
