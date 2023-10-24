@@ -1,6 +1,6 @@
 category: power
 health: 7200
-localizedName: "extra-large viscottium solar panel"
+localizedName: "XXL viscottium solar panel"
 powerProduction: 24 
 requirements:[main_03/700,main_04/250]
 research: main_sp_1d
