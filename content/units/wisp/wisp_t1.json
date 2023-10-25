@@ -3,4 +3,4 @@ health: 230
 localizedName:"[grey]trash launcher [white]tank"
 speed:0.5
 research:"wisp_wf_1"
-weapons:[{"name":"tl","bullet":{"damage":13,"speed":2.5},"range":100}]
+weapons:[{"x":0,"name":"tl","bullet":{"damage":13,"speed":2.5},"range":100}]
