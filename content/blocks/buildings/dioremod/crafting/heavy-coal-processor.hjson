@@ -1,4 +1,4 @@
-//type: GenericCrafter
+type: GenericCrafter
 name: Heavy Coal Processor
 description: Solidifies oil into chunks of coal.
 itemCapacity: 30
