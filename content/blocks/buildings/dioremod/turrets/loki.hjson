@@ -1,4 +1,4 @@
-//type: ItemTurret
+type: ItemTurret
 name: Loki
 description: Mows down ground enemies with piercing projectiles.
 health: 1700
