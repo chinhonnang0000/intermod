@@ -1,4 +1,4 @@
-//type: MassDriver
+type: MassDriver
 name: Bulk Mass Driver
 description: "The ultimate item transport block. Collects several items and then shoots them to another mass driver over a long range. Requires power to operate.\n\n\nBulk Mass Drivers are larger, store more items, and have increased range and speed. However, requires much more power."
 health: 4800
