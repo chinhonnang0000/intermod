@@ -1,4 +1,4 @@
-//type: AttributeSmelter
+type: GenericCrafter
 name: Mutator
 description: Uses a huge amount of power and a small amount of phase string to controllably mutate regular spore pods into a unique but incredibly unstable building material.
 details: Recovered technology. Origins unknown.
