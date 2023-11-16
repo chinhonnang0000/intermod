@@ -1,4 +1,4 @@
-type: DecayGenerator
+type: ConsumeGenerator
 name: Ancient Decay Generator
 description: Durable radiation-powered generator. Can handle the explosiveness of even the most volatile compounds as fuel.
 health: 400
