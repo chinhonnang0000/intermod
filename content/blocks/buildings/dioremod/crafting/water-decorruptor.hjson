@@ -1,4 +1,4 @@
-//type: GenericCrafter
+type: GenericCrafter
 name: Water De-corruptor
 description: Reverse-engineers the mutant spores to purify corrupted water. More efficient in certain locations.
 details: Recovered technology. Used to purify water that has been saturated with mutated spores.
