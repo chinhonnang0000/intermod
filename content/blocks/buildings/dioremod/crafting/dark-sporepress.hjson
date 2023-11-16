@@ -1,4 +1,4 @@
-type: AttributeSmelter
+type: GenericSmelter
 name: Dark Spore Press
 description: Compresses mutated spore pods under extreme pressure to liquefy them, potentially using them to cultivate even more pods. More efficient in oily locations.
 itemCapacity: 10
