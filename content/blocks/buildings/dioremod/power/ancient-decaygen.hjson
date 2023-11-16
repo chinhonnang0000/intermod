@@ -8,7 +8,7 @@ hasItems: true
 itemCapacity: 10
 itemDuration: 240
 randomlyExplode: false
-generateEffect: smelt
+generateEffect: smeltsmoke
 heatColor: 66a8ff
 minItemEfficiency: 0.75
 requirements: [
