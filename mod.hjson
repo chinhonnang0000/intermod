@@ -1,10 +1,11 @@
 author: chinhonnang0000
 displayName: intermod
 dependencies:[]
-description: "Contains broken-mod remakes btw.Prismatic can now run on v146.1" 
-hidden:false
+description: "JSON-javaScript compliation of several mods that are unplayable" 
+hidden:false,
+java:false,
 name:"intermod"
-minGameVersion: 141
+minGameVersion: 146
 version: build 0
 repo: "chinhonnang0000/intermod"
-subtitle: "Working on: unit fix"
+subtitle: "Working on: exhiber techs, Expect no balancing here."
