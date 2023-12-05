@@ -7,6 +7,15 @@ this mods contains several mod remakes (WIP): Made beause the original mods have
 - Tantria (not on the existing Tantros). https://github.com/jasmarkelina/tantros-mod
 - Wisp by RintaDev https://github.com/rintadev/wisp
 
+ADDITIONAL NOTES
+- Some of these mode above can be playable when installed old version
+One of these mod is Tantria 
+- Please follow this instruction. This can also be done to some "Not found" mod. 
+step 1 - Go to mod browser
+step 2 - Click on the mod
+step 3 - View Releases
+step 4 - install the older version. 
+
 COPYRIGHT DISCLAIMER
 No sprites herein is changed UNLESS prompted by original modder via issues. All sprites here belong to respective modders. 
 Except the ones are added to fill up the oh no and the techs to make the mod campaign playable or to compensate for some bugs. 
@@ -25,10 +34,11 @@ For example if Tantria "works" again, minimum 3 tiers and 10 missions will be ad
 - Things are added to make the mod playable (intm_main). They will be OP in higher tiers. 
 
 #current affairs: Deletes once completed. 
-- Diamond Ore mod (intm_dioremod) New planet - intm_dioremod dore. Tech trees reworks. 
+- Diamond Ore mod (intm_dioremod) Tech trees reworks. 
 - Diamond Ore mod (intm_dioremod) unit patch up and may end up the different working form the oroginal one.
 - Exhiber techs and their tree, and the enemy base from the previous version. 
 - germanium extractor mender in intm_main system tier 5.
+- intm_tantria maps remake, tanks, new turrets, large zinc walls, 50Cu-50Ni alloy tiers, 2 tiers of power generators, 
 
 
 Currebt bugs 
