@@ -1,7 +1,7 @@
 # intermod
 mindustry mod that contains other mod that no longer works. Additinal details and screehshots are in read me.docx
 
-this mods contains several mod remakes (WIP): Made beause the original mods have content errors or crash upon start up or not working at all (using V146.1). DOES NOT INCLUDE MUSICS. 
+this mods contains several mod remakes (WIP): Made beause the original mods have content errors or crash upon start up or not working at all (using V146). DOES NOT INCLUDE MUSICS. 
 - Diamond Ore Mod by z0mbiesrock https://github.com/z0mbiesrock/diamond-ore
 - Malcalor https://github.com/skyethefoxyfox/malcalor
 - Tantria (not on the existing Tantros). https://github.com/jasmarkelina/tantros-mod
