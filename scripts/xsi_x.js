@@ -217,3 +217,6 @@ var xgen = extend(serpuloPlanetGenerator,{
 
     },
 })
+
+var dist_vred, dist_gent; 
+var seed_vred, seed_gent; 
