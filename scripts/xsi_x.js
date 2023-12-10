@@ -5,7 +5,16 @@ Events.on(ContentInitEvent, e =>
 })
 function get_block(po)
 {
-    var a,b; 
+     var hyt = rawhyt(po); //function 1c
+    Tmp.v31.set(po);
+    var pos = Tmp.v33.set(po).scl(5);
+    var rad = 5; //var tars; 
+    var tem = Mathf.clamp(Math.abs(pos.y * 2) / (rad));
+    var tnoise = Simplex.noise3d(1, 7, 0.56, 0.33, pos.x, pos.y + 999, pos.z);
+    var temp = Mathf.lerp(tem, tnoise, 0.5);
+    hyt = hyt * 1.2; var hyu = Mathf.clamp(hyt);
+    var a = Math.floor(Mathf.clamp(temp * 8, 0, 7));
+    var b = Math.floor(Mathf.clamp(hyu * 8, 0, 7)); 
     return varr[a][b]; 
 }
 
