@@ -1,5 +1,6 @@
 Events.on(ContentInitEvent, e => 
 {
+    ore_iron = Vars.content.block("intermod-xsi_ore_iron");
     init_random(); 
     Vars.content.planet("intermod-intm_xsi_x").generator = xgen;//new ErekirPlanetGenerator();
 })
@@ -169,7 +170,7 @@ var xgen = extend(SerpuloPlanetGenerator,{
 
         this.cells(1); this.distort(10, 6);
         this.inverseFloodFill(this.tiles.getn(spawn.x, spawn.y));
-        var ores = Seq.with(magwisp);
+        var ores = Seq.with(ore_iron);
         var poles = Math.abs(this.sector.tile.v.y);
         var nmag = 0.5;var scl = 1;
         var addscl = 1.3; // adds resources later ore. 
@@ -233,4 +234,5 @@ var xgen = extend(SerpuloPlanetGenerator,{
 
 var dist_vred, dist_gent; 
 var seed_vred, seed_gent; 
+var ore_iron; 
 var ocu; 
