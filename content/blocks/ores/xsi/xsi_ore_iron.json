@@ -1,0 +1,7 @@
+{
+"itemDrop":"iron",
+"localizedName":"Iron Ore",
+"tier":0, 
+"type":"OreBlock"
+"variants":4,
+}
