@@ -225,6 +225,10 @@ var xgen = extend(SerpuloPlanetGenerator,{
         if(Ridged.noise3d(seed_gent + 1, po.x, po.y, po.z, 2, dist_gent) > ocu){ti.block = Blocks.air;}
 
     },
+    noiseOct(x, y, octaves, falloff, scl){
+        var v = this.sector.rect.project(x, y).scl(5);
+        return Simplex.noise3d(1, octaves, falloff, 0.4/scl, v.x, v.y, v.z);
+    },
 })
 
 var dist_vred, dist_gent; 
