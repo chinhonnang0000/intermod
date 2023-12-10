@@ -26,7 +26,7 @@ function init_random()
 {
     varr = new Array(); var a = 0, b = 0; wos = Math.random() * 0.14; 
     dist_vred = 70 + Math.random() * 20; seed_vred = Math.floor(Math.random() * 999999999); 
-    dist_gent = 20 + Math.random() * 59; seed_gent = Math.floor(Math.ramdom() * 999999999); 
+    dist_gent = 20 + Math.random() * 59; seed_gent = Math.floor(Math.random() * 999999999); 
     while(a < 8)
     {
         varr[a] = new Array(); b=0; while(b < 8)
