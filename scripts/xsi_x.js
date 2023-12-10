@@ -1,7 +1,7 @@
 Events.on(ContentInitEvent, e => 
 {
     init_random(); 
-    //Vars.content.planet("intermod-intm_xsi_x").generator = xgen;
+    Vars.content.planet("intermod-intm_xsi_x").generator = new ErekirPlanetGenerator();
 })
 function get_block(po)
 {
