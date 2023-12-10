@@ -223,6 +223,10 @@ var xgen = extend(SerpuloPlanetGenerator,{
     genTile(po,ti)
     {
         ti.floor = get_block(po);ti.block = ti.floor.asFloor().wall;
+        if(tl.floor == Blocks.redStone || ti.floor == Blocks.denseRedStone)
+        {
+            if(Simplex.noise3d(seed_vred,2,0,dist_vred,po.x,po.y,po.z) > 0.75){ti.floor = Blocks.redStoneVent; ti.block = Blocks.air;} // redStoneVents
+        }
         if(Ridged.noise3d(seed_gent + 1, po.x, po.y, po.z, 2, dist_gent) > ocu){ti.block = Blocks.air;}
 
     },
