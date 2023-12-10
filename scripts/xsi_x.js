@@ -1,7 +1,7 @@
 Events.on(ContentInitEvent, e => 
 {
     init_random(); 
-    Vars.content.planet("intermod-intm_xsi_x").generator = new ErekirPlanetGenerator();
+    Vars.content.planet("intermod-intm_xsi_x").generator = xgen;//new ErekirPlanetGenerator();
 })
 function get_block(po)
 {
@@ -49,7 +49,7 @@ var dist_gent; dist_vred;
 var seed_gent; seed_vred;
 var varr, wos; 
 
-var xgen = extend(serpuloPlanetGenerator,{
+var xgen = extend(SerpuloPlanetGenerator,{
     generate(ti,se)
     {
         init_random(); 
