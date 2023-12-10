@@ -33,7 +33,7 @@ function get_random_tiles()
 
 function init_random()
 {
-    varr = new Array(); var a = 0, b = 0; wos = Math.random() * 0.14; 
+    varr = new Array(); var a = 0, b = 0; wos = Math.random() * 0.14; ocu = Math.random() * 0.5;
     dist_vred = 70 + Math.random() * 20; seed_vred = Math.floor(Math.random() * 999999999); 
     dist_gent = 20 + Math.random() * 59; seed_gent = Math.floor(Math.random() * 999999999); 
     while(a < 8)
@@ -229,3 +229,4 @@ var xgen = extend(SerpuloPlanetGenerator,{
 
 var dist_vred, dist_gent; 
 var seed_vred, seed_gent; 
+var ocu; 
