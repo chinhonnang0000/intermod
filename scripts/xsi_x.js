@@ -21,7 +21,7 @@ function get_block(po)
 
 function get_random_tiles()
 {
-    var a = Math.floor(Math.random() * 3);
+    var a = Math.floor(Math.random() * 4);
     switch (a)
     {
         case 0: return Blocks.coreZone;
