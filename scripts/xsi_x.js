@@ -35,7 +35,7 @@ function get_random_tiles()
 function init_random()
 {
     varr = new Array(); var a = 0, b = 0; wos = Math.random() * 0.14; ocu = Math.random() * 0.5;
-    dist_vred = 70 + Math.random() * 20; seed_vred = Math.floor(Math.random() * 999999999); 
+    dist_vred = 100 + Math.random() * 50; seed_vred = Math.floor(Math.random() * 999999999); 
     dist_gent = 20 + Math.random() * 59; seed_gent = Math.floor(Math.random() * 999999999); 
     while(a < 8)
     {
@@ -225,7 +225,7 @@ var xgen = extend(SerpuloPlanetGenerator,{
         ti.floor = get_block(po);ti.block = ti.floor.asFloor().wall;
         if(ti.floor == Blocks.redStone || ti.floor == Blocks.denseRedStone)
         {
-            if(Simplex.noise3d(seed_vred,2,0,dist_vred,po.x,po.y,po.z) > 0.75){ti.floor = Blocks.redStoneVent; ti.block = Blocks.air;} // redStoneVents
+            if(Simplex.noise3d(seed_vred,2,0,dist_vred,po.x,po.y,po.z) > 0.8){ti.floor = Blocks.redStoneVent; ti.block = Blocks.air;} // redStoneVents
         }
         if(Ridged.noise3d(seed_gent + 1, po.x, po.y, po.z, 2, dist_gent) > ocu){ti.block = Blocks.air;}
 
