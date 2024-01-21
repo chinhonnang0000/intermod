@@ -1,0 +1,14 @@
+name: Huge Zinc Wall
+type: Wall
+health: 8100
+size: 3
+description: "Protects structures from enemy projectiles. Conducts power"
+conductivePower: true
+category: defense
+hasPower: true
+research: {
+   parent: zinc-wall-large
+}
+requirements : [
+        zincum/54
+    ]
