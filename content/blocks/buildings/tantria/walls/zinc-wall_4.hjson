@@ -7,7 +7,7 @@ conductivePower: true
 category: defense
 hasPower: true
 research: {
-   parent: zinc-wall-large
+   parent: zinc-wall_3
 }
 requirements : [
         zincum/96
