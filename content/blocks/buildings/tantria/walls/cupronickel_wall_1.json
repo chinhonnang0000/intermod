@@ -1,0 +1,9 @@
+{
+"armor":2,
+"health": 800,
+"localizedName":"small cupronickel wall",
+"research":"cupronickel_smelter",
+"requirements":[cupronickel/6],
+"size":1,
+"type":"Wall",
+}

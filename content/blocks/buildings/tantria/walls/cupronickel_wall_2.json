@@ -1,0 +1,9 @@
+{
+"armor":4,
+"health": 3200,
+"localizedName":"medium cupronickel wall",
+"research":"cupronickel_wall_1",
+"requirements":[cupronickel/6],
+"size":2,
+"type":"Wall",
+}

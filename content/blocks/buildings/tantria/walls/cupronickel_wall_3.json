@@ -1,0 +1,9 @@
+{
+"armor":6,
+"health": 8000,
+"localizedName":"large cupronickel wall",
+"research":"cupronickel_wall_2",
+"requirements":[cupronickel/54],
+"size":3,
+"type":"Wall",
+}
