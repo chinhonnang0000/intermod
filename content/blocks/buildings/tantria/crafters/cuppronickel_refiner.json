@@ -1,0 +1,7 @@
+consumes: {"power":2, "itmes":{"copper/1","Nickel/1"}}
+description: "produces a very srong alloy using copper and nickel",
+helath: 540, 
+localizedName:"cupronickel smelter",
+requirements:[Nickel/100,copper/50,lead/40,cadmium/20]
+research:{"parent":"refiner","objectives":[{type: "OnSector","preset":"tantria_main_frigid_wastewaters"}]}
+size: 3, 
