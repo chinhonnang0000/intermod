@@ -1,6 +1,6 @@
 {
-"consumes": {"power":2, "itmes":{"copper/1","Nickel/1"}},
-description: "produces a very srong alloy using copper and nickel",
+"consumes": {"power":2, "itmes":["copper/1","Nickel/1"]},
+"description": "produces a very srong alloy using copper and nickel",
 health: 540, 
 itemCapacity: 50,
 localizedName:"cupronickel smelter",
