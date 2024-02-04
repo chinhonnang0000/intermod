@@ -52,7 +52,7 @@ breakable: true
 research: {"parent":"cliff-bore","requirements": [Nickel/25,copper/50]}
 tier: 3
 lightRadius: 110,
-emitsLight: true,
+emitLight: true,
 drillTime: 250
 buildVisibility: shown
 hasPower: true
