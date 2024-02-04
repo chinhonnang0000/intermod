@@ -8,4 +8,5 @@ outputItem:"cupronickel/1",
 requirements:[Nickel/100,copper/50,lead/40,cadmium/20]
 research:{"parent":"refiner","objectives":[{type: "OnSector","preset":"tantria_main_frigid_wastewaters"}]}
 size: 3, 
+"type":"GenericCrafter"
 }
