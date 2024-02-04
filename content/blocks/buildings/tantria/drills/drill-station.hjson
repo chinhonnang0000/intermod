@@ -51,9 +51,10 @@ drillEffect: [
 breakable: true
 research: {"parent":"cliff-bore","requirements": [Nickel/25,copper/50]}
 tier: 3
-lightRadius: 110,
+lightRadius: 500,
 emitLight: true,
 drillTime: 250
+clipSize: 1750,
 buildVisibility: shown
 hasPower: true
 itemCapacity: 20
