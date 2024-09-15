@@ -18,7 +18,7 @@ step 4 - install the older version.
 
 COPYRIGHT DISCLAIMER
 No sprites herein is changed UNLESS prompted by original modder via issues. All sprites here belong to respective modders. 
-Except the ones are added to fill up the oh no and the techs to make the mod campaign playable or to compensate for some bugs. 
+Except the ones are added to fill up the "oh no" and the techs to make the mod campaign playable or to compensate for some bugs. 
 eg. nickel drills, super alloy walls. astroidgen shall receive the same treatment by other modders if not working properly for 1 or more weeks. 
 
 #BALANCING DISCLAIMER
@@ -35,7 +35,7 @@ For example if Tantria "works" again, minimum 3 tiers and 10 missions will be ad
 
 #current affairs: Deletes once completed. 
 - Diamond Ore mod (intm_dioremod) Tech trees reworks. 
-- Diamond Ore mod (intm_dioremod) unit patch up and may end up the different working form the oroginal one.
+- Diamond Ore mod (intm_dioremod) unit patch up and may end up the different working from the original one.
 - Exhiber techs and their tree, and the enemy base from the previous version. 
 - intm_tantria maps remake, tanks, new turrets, 50Cu-50Ni alloy tiers, 2 tiers of power generators, 
 
