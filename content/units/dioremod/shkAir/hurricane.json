@@ -41,7 +41,22 @@ weapons:[
 {
 "bullet":
 {
-	
+	"damage":80,
+"despawnEffect":{}
+"hitEffect":{},
+"hitSound":"spark",
+"lifetime":1,
+"shootEffect":"hitFuse",
+"smokeEffect":"hitBulletBig",
+"speed":400,
+"status":"shocked","statusDuration":30,
+	"trailEffect":
+	{
+		
+	}
+"trailSpacing":15,
+"tileDamageMultiplier";0.6,
+	"type":"pointBulletType"
 },
 "inaccuracy":0,
 "name":"shk_air_t4_A"
@@ -56,7 +71,36 @@ weapons:[
 "x":12,"y":13,
 },
 {
+"bullet":
+{
+	"damage":80,
+"despawnEffect":{}
+"hitEffect":{},
+"hitSound":"spark",
+"lifetime":1,
+"shootEffect":"hitFuse",
+"smokeEffect":"hitBulletBig",
+"speed":400,
+"status":"shocked","statusDuration":30,
+	"trailEffect":
+	{
+		
+	}
+"trailSpacing":15,
+"tileDamageMultiplier";0.6,
+	"type":"pointBulletType"
+},
+"inaccuracy":0,
 "name":"shk_air_t4_B"
+"reload":55,
+"rotate":true,
+"rotateSpeed":5,
+"shootCone":5,
+"shots":1,
+"soundPitchMin":0.5,"soundPitchMax":1.03,
+"shootSound":"strikeZapBig",
+"top":true,
+"x":12,"y":13,
 }
 ]
 
