@@ -42,7 +42,7 @@ weapons:[
 "bullet":
 {
 	"damage":80,
-"despawnEffect":{}
+"despawnEffect":"trailFade",
 "hitEffect":{},
 "hitSound":"spark",
 "lifetime":1,
@@ -74,7 +74,7 @@ weapons:[
 "bullet":
 {
 	"damage":80,
-"despawnEffect":{}
+"despawnEffect":"trailFade",
 "hitEffect":{},
 "hitSound":"spark",
 "lifetime":1,
