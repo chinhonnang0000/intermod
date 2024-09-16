@@ -1,9 +1,0 @@
-{
-"attributes":"tunnel"
-"decoration":"prop_chalk_clogs",
-"itemDrop":"chalk",
-"localizedName":"Chalk Floor",
-"playerUnmineable":true,
-"type":"Floor"
-"wall":"sw_chalk"
-}
