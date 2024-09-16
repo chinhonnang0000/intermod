@@ -42,7 +42,7 @@ weapons:[
 "bullet":
 {
 	"damage":80,
-"despawnEffect":"trailFade",
+"despawnEffect":{}
 "hitEffect":{},
 "hitSound":"spark",
 "lifetime":1,
@@ -50,10 +50,7 @@ weapons:[
 "smokeEffect":"hitBulletBig",
 "speed":400,
 "status":"shocked","statusDuration":30,
-	"trailEffect":
-	{
-		
-	}
+"trailEffect":"trailFade",
 "trailSpacing":15,
 "tileDamageMultiplier":0.6,
 	"type":"pointBulletType"
