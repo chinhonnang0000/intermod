@@ -43,4 +43,4 @@ Last done :: Deleting intm_exhiber and will pop up to Hoarder's mod package 0. I
 Current bugs 
 - More to be found and fixed.  
 
-No futhers content will be added because the mod is too big for the in-game editor to process properly 
+No futhers content fromm other mods will be added because the mod is too big for the in-game editor to process properly 
