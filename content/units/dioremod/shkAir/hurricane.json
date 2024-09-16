@@ -1,6 +1,5 @@
 localizedName: Hurricane
 description: Fires explosive lightning balls and instantaneous electron bolts at all nearby enemies.
-commandLimit: 8
 speed: 1.1
 strafePenalty: 1
 rotateSpeed: 1.8
@@ -45,7 +44,7 @@ weapons:[
 "despawnEffect":{}
 "hitEffect":{},
 "hitSound":"spark",
-"lifetime":10,
+"lifetime":2,
 "shootEffect":"hitFuse",
 "smokeEffect":"hitBulletBig",
 "speed":400,
@@ -74,7 +73,7 @@ weapons:[
 "despawnEffect":"trailFade",
 "hitEffect":{},
 "hitSound":"spark",
-"lifetime":10,
+"lifetime":2,
 "shootEffect":"hitFuse",
 "smokeEffect":"hitBulletBig",
 "speed":400,
