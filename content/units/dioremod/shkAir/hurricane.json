@@ -55,7 +55,7 @@ weapons:[
 	"type":"pointBulletType"
 },
 "inaccuracy":0,
-"name":"shk_air_t4_A"
+"name":"hurricane-bolt"
 "reload":55,
 "rotate":true,
 "rotateSpeed":5,
@@ -87,7 +87,7 @@ weapons:[
 	"type":"pointBulletType"
 },
 "inaccuracy":0,
-"name":"shk_air_t4_B"
+"name":"hurricane-bolt",
 "reload":55,
 "rotate":true,
 "rotateSpeed":5,
