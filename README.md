@@ -36,7 +36,7 @@ For example if Tantria "works" again, minimum 3 tiers and 10 missions will be ad
 #current affairs: Deletes once completed. 
 - Diamond Ore mod (intm_dioremod) Tech trees reworks. 
 - Diamond Ore mod (intm_dioremod) unit patch up and may end up the different working from the original one.
----TDL: MleGnd t3 to T5 , ShkAir T4 & T5,  SpcAir, SpoNav, SuiAir 
+---TDL: MleGnd T5 , ShkAir T4 & T5,  SpcAir, SpoNav, SuiAir 
 - 
 - Exhiber techs and their tree, and the enemy base from the previous version. 
 - intm_tantria maps remake, tanks, new turrets, 50Cu-50Ni alloy tiers, 2 tiers of power generators, 
