@@ -37,20 +37,8 @@ For example if Tantria "works" again, minimum 3 tiers and 10 missions will be ad
 - Diamond Ore mod (intm_dioremod) Tech trees reworks. 
 - Diamond Ore mod (intm_dioremod) unit patch up and may end up the different working from the original one.
 ---TDL: MleGnd T5 , ShkAir T4 & T5,  SpcAir, SpoNav, SuiAir 
-- 
-- Exhiber techs and their tree, and the enemy base from the previous version. 
-- intm_tantria maps remake, tanks, new turrets, 50Cu-50Ni alloy tiers, 2 tiers of power generators, 
-
 
 Current bugs 
 - More to be found and fixed.  
 
-
-proposed furhter content for the wip sub-mods. 
-- intm_wisp(Wisp by RintaDev) extension, according to the original mod developer. 
-
-#To do list mods: 
-- Exhiber (Players never wins on field 15 on planet exhiber, autolose)
-- Saturation Firepower by RA2 (content errors caught in main menu) - delayed due to gitHub activities. Hopefully the original mod get fixed before completing the intm_dioremod debugs and intm_exhiber  
-
-
+No futhers content will be added because the mod is too big for the in-game editor to process properly 
