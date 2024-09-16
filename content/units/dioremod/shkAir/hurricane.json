@@ -112,9 +112,9 @@ weapons:[
 	"width":9,
 }
 "fragBullets":65,
-"fragVelocityMin":0.4, "fragVelocityMax":5;
+"fragVelocityMin":0.4, "fragVelocityMax":5,
 "fragLifeMin":0, "fragLifeMax":1.375, 
-"despawnEffect":instBomb,
+"despawnEffect":"instBomb",
 "hittable":false,
 "hitEffect":{}
 "lifeTime":40,
