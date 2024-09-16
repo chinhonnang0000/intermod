@@ -3,8 +3,6 @@ localizedName: Owl
 description: Automatically mines copper, lead, titanium, and thorium, depositing it into the core. Capable of flight. Attacks nearby enemies when harmed.
 speed: 1.8
 boostMultiplier: 0.75
-drag: 0.07
-accel: 0.08
 rotateSpeed: 6.5
 baseRotateSpeed: 7.5
 lightRadius: 35
