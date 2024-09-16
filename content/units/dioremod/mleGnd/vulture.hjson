@@ -60,7 +60,7 @@ weapons:[
 	  instantDisappear: true
 	  hitColor: c9a58f
       splashDamage: 1250
-      splashDamageRadius: 28
+      splashDamageRadius: 280
 	  speed: 1.5
 	  recoil: -1.2
 	  lifetime: 32
@@ -91,7 +91,7 @@ weapons:[
         length: 25
         lifetime: 20
 	    serrations: 3
-	    serrationWidth: 5
+	    serrationWidth: 50
 	    serrationSpacing: 11
 	    serrationSpaceOffset: 48
 	    serrationLenScl: -12
