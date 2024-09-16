@@ -137,7 +137,7 @@ weapons:[
 "trailColor":"ffff77", "frontColor":"ffffff","backColor":"ffff77",
 "width":23,"height":23,
 }
-"mirror";false,
+"mirror":false,
 "name":"hurricane-plasma",
 "reload":65,
 "rotateSpeed":11,
