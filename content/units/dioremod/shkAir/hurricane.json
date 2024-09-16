@@ -2,8 +2,6 @@ localizedName: Hurricane
 description: Fires explosive lightning balls and instantaneous electron bolts at all nearby enemies.
 commandLimit: 8
 speed: 1.1
-drag: 0.1
-accel: 0.108
 strafePenalty: 1
 rotateSpeed: 1.8
 lightRadius: 75
@@ -38,3 +36,27 @@ research:{
       thorium/12500
   ]
 }
+
+weapons:[
+{
+"bullet":
+{
+	
+},
+"inaccuracy":0,
+"name":"shk_air_t4_A"
+"reload":55,
+"rotate":true,
+"rotateSpeed":5,
+"shootCone":5,
+"shots":1,
+"soundPitchMin":0.5,"soundPitchMax":1.03,
+"shootSound":"strikeZapBig",
+"top":true,
+"x":12,"y":13,
+},
+{
+"name":"shk_air_t4_B"
+}
+]
+
