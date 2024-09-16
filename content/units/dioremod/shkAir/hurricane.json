@@ -44,7 +44,7 @@ weapons:[
 "despawnEffect":{}
 "hitEffect":{},
 "hitSound":"spark",
-"lifetime":2,
+"lifetime":1,
 "shootEffect":"hitFuse",
 "smokeEffect":"hitBulletBig",
 "speed":400,
@@ -73,7 +73,7 @@ weapons:[
 "despawnEffect":"trailFade",
 "hitEffect":{},
 "hitSound":"spark",
-"lifetime":2,
+"lifetime":1,
 "shootEffect":"hitFuse",
 "smokeEffect":"hitBulletBig",
 "speed":400,
