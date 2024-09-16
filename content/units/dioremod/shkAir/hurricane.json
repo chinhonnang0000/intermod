@@ -55,7 +55,7 @@ weapons:[
 		
 	}
 "trailSpacing":15,
-"tileDamageMultiplier";0.6,
+"tileDamageMultiplier":0.6,
 	"type":"pointBulletType"
 },
 "inaccuracy":0,
@@ -87,7 +87,7 @@ weapons:[
 		
 	}
 "trailSpacing":15,
-"tileDamageMultiplier";0.6,
+"tileDamageMultiplier":0.6,
 	"type":"pointBulletType"
 },
 "inaccuracy":0,
