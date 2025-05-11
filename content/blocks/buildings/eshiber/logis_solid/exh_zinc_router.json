@@ -1,0 +1,12 @@
+{
+"alwaysUnlocked":true,
+"capacity":6,
+"category":"distribution",
+"envEnabled":5,
+"health":80,
+"localizedName":"Zinc Dispatcher",
+"requirements":["chalk/2","zincum/6"],
+"research":"exh_zinc_gutter",
+"speed":0.2,
+"type":"Router",
+}

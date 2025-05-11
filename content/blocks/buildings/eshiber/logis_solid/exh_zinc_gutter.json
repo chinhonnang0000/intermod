@@ -1,0 +1,13 @@
+{
+"alwaysUnlocked":true,
+"category":"distribution",
+"displaySpeed":0.05,
+"envEnabled":5,
+"health":110,
+"hasShadow":false,
+//"junctionReplacement":""
+"localizedName":"Zinc Gutter",
+"requirements":["zincum/1"],
+"research":"intm_exhiber",
+"type":"Duct",
+}
