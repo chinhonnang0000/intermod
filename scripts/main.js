@@ -1,4 +1,10 @@
-//require("xsi_x"); require("wisp_wisa"); require("tantria"); require("malc"); require("intm_main"); require("intm_exhiber");require("dore");
+//require("xsi_x"); 
+require("wisp_wisa"); 
+require("tantria"); 
+require("malc"); 
+require("intm_main"); 
+require("intm_exhiber");
+require("dore");
 Events.on(ContentInitEvent, e =>
 { 
    // intermod to original contents
