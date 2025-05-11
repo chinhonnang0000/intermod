@@ -1,7 +1,7 @@
 {
 "category":"crafting",
 "consumes":{"items":[chalk/8]},
-"craftEffect":smeltsmoke, 
+"craftEffect":"smoke", 
 "craftTime":150,
 "localizedName":"Diamond Compressor",
 "outputItem":"diamond/2",
