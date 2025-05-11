@@ -1,0 +1,10 @@
+{
+"category":"power",
+"health":65,
+"hasShadow":false,
+"localizedName":"zinc wire",
+"requirements":["zincum/2","tenorite/2"]
+"research":"exh_zinc_gutter",
+"size":1, 
+"type":"PowerCable"
+}
