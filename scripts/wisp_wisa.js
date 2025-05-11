@@ -2,6 +2,8 @@ Events.on(ContentInitEvent, e => { Vars.content.planet("intermod-intm_wisp_wisa"
 
 function arr_wisp_wisa(a,b)
 {
+    if(!a){a = Math.random()*13;}
+    if(!b){a = Math.random()*13;}
     var c = Math.floor(a); var d = Math.floor(b); 
     if(c == 0)
     {   if(d==0){return Blocks.water} else if(d==1){return Blocks.basalt;} else if(d==2){return Blocks.basalt;} else if(d==3){return Blocks.basalt;} else if(d==4){return Blocks.basalt;} 
@@ -187,10 +189,7 @@ var b = Mathf.clamp(Math.floor(height * 13),0,12);
         if(Simplex.noise3d(1, 2, 0.5, scl, this.sector.tile.v.x, this.sector.tile.v.y, this.sector.tile.v.z) * nmag + poles > 0.7 * addscl){
             ores.add(Vars.content.getByName(ContentType.block, "intermod-magic_ruins"));
         };
-        if(Simplex.noise3d(1, 2, 0.5, scl, this.sector.tile.v.x + 1, this.sector.tile.v.y, this.sector.tile.v.z) * nmag + poles > 0.2 * addscl){
-            ores.add(Vars.content.getByName(ContentType.block, "intermod-ancient_scrap"));
-        };
-
+        ores.add(Vars.content.getByName(ContentType.block, "intermod-ancient_scrap"));
         var frequencies = new FloatSeq(); for(var i = 0; i < ores.size; i++){frequencies.add(rand.random(-0.1, 0.01) - i * 0.01 + poles * 0.04);};
         this.pass((x, y) => {
             if(!this.floor.asFloor().hasSurface()) return;
