@@ -8,7 +8,7 @@ this mods contains several mod remakes (WIP): Made beause the original mods have
 - Wisp by RintaDev https://github.com/rintadev/wisp
 
 ADDITIONAL NOTES
-- Some of these mode above can be playable when installed old version
+- Some of these mods above can be playable when installed old version
 One of these mod is Tantria 
 - Please follow this instruction. This can also be done to some "Not found" mod. 
 step 1 - Go to mod browser
@@ -22,7 +22,7 @@ Except the ones are added to fill up the "oh no" and the techs to make the mod c
 eg. nickel drills, super alloy walls. astroidgen shall receive the same treatment by other modders if not working properly for 1 or more weeks. 
 
 #BALANCING DISCLAIMER
-No content taken from the original mod are changed unless there are bugs and ducplicates. 
+No content taken from the original mod are changed unless there are bugs and ducplicates. The duplicates will get 2x more powerful in many ways. 
 
 Different difficulty perspective by different modders 
 Thus some tech may be very OP (example: Tantria's Devestator) or useless (example: all hyperspace turrets)  
@@ -36,11 +36,10 @@ For example if Tantria "works" again, minimum 3 tiers and 10 missions will be ad
 Last done :: Deleting intm_exhiber and will pop up to Hoarder's mod package 0. In order to see if we can use the editor much better.
 
 #current affairs: Deletes once completed. 
+- Re-including Exhiber. 
 - Diamond Ore mod (intm_dioremod) Tech trees reworks. 
 - Diamond Ore mod (intm_dioremod) unit patch up and may end up the different working from the original one.
 ---TDL: MleGnd T5 , ShkAir T4 & T5,  SpcAir, SpoNav, SuiAir 
 
 Current bugs 
 - More to be found and fixed.  
-
-No futhers content fromm other mods will be added because the mod is too big for the in-game editor to process properly 
