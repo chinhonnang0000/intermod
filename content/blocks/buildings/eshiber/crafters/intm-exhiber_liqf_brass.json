@@ -4,7 +4,7 @@
 "consumes":{"items":[zincum/1]}
 "craftEffect":"absorb",
 "craftTime":60,
-"hasLiquid":true,
+"hasLiquids":true,
 "health":360,
 "itemCapacity":10,
 "liquidAmount":1, 
