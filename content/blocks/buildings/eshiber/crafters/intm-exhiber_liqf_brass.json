@@ -1,0 +1,12 @@
+{
+"category":"crafting",
+"consumes":{"items":[zinc/1]}
+"craftEffect":"absorb",
+"craftTime":60,
+"itemCapacity":10,
+"liquidAmount":1, 
+"liquidCapacity":300,
+"outputLiquid":"liq_zinc",
+"requirements":["zincum/80","tenorite/40","diamond/80"],
+"size":3,
+}
