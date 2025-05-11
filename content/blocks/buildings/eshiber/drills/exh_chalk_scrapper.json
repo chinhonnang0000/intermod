@@ -6,6 +6,7 @@
 "itemDrop":"chalk",
 "liquidBoostIntensity":1, 
 "localizedName":"Chalk Scraper",
+"research":"intm_exhiber",
 "requirements":[zincum/20],
 "size":2, 
 "tier":1,
