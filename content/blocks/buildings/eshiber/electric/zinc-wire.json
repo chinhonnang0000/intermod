@@ -1,7 +1,7 @@
 {
 "category":"power",
 "conductivePower":true, 
-"consumePowerBuffered":1,
+"consumes": {"powerBuffered":1},
 "health":65,
 "hasShadow":false,
 "itemCapacity":0,
