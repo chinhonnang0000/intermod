@@ -10,6 +10,7 @@
 "liquidAmount":1, 
 "liquidCapacity":300,
 "outputLiquid":"liq_zinc/1",
+"outputsLiquid":true,
 "requirements":["zincum/80","tenorite/40","diamond/80"],
 "size":3,
 }
