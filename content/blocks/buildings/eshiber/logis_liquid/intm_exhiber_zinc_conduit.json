@@ -1,0 +1,9 @@
+{
+"category":"liquid",
+"health":40,
+"localizedName":"Zinc Conduit",
+"requirements":["zincum/2","diamond/2"],
+"research":"exh_zinc_gutter", 
+"size":1,
+"type":"Conduit",
+}
