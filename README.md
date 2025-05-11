@@ -43,4 +43,4 @@ Last done :: Deleting intm_exhiber and will pop up to Hoarder's mod package 0. I
 ---TDL: MleGnd T5 , ShkAir T4 & T5,  SpcAir, SpoNav, SuiAir 
 
 Current bugs 
-- More to be found and fixed.  
+- main script is not activated. 
