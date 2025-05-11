@@ -1,10 +1,17 @@
 {
 "category":"power",
+"conductivePower":true, 
+"consumePowerBuffered":1,
 "health":65,
 "hasShadow":false,
+"itemCapacity":0,
 "localizedName":"zinc wire",
+"quickRotate":true,
 "requirements":["zincum/2","tenorite/2"]
 "research":"exh_zinc_gutter",
+"rotate":true,
 "size":1, 
-"type":"PowerCable"
+"type":"conveyor",
+"update":true,
+
 }
