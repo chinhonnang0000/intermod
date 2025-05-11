@@ -34,7 +34,7 @@ a lot of things could be added once the original mod works and resolves its erro
 For example if Tantria "works" again, minimum 3 tiers and 10 missions will be added. Each will be more overpowered than the last.   
 - Things are added to make the mod playable (intm_main). They will be OP in higher tiers. 
 
-Last done :: Deleting intm_exhiber and will pop up to Hoarder's mod package 0. In order to see if we can use the editor much better.
+Last done :: fixing some error caused by requiring script that does not exist thagt resulting in all planets becomes asteroid generators
 
 #current affairs: Deletes once completed. 
 - Re-including Exhiber. 
