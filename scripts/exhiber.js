@@ -20,7 +20,8 @@ or_vana = Vars.content.block("intermod-ore_vanadium");
 or_zinc = Vars.content.block("intermod-ore_zinc");
 
 init_random();
-Vars.content.planet("intermod-in_exhiber").generator = new SerpuloGenerator(); //deliberate test crash to see if this part of the script is laoded
+Vars.content.planet("intermod-intm_exhiber").generator = new SerpuloGenerator(); //deliberate test crash to see if this part of the script is laoded
+    //currretn diagnosis showing the script is not loaded.
 })
 
 function get_block(a)
