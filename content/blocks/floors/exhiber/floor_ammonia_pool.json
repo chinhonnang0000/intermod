@@ -1,0 +1,11 @@
+{
+"albedo":0.9,
+"cacheLayer":water,
+"isLiquid":"true",
+"liquidDrop":"liq_ammonia",
+"localizedName":"Ammonia Pool",
+"status":"corroded",
+"statusDuration":120,
+"type":"Floor",
+"variants":0
+}
