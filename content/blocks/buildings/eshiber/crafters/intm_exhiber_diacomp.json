@@ -1,0 +1,12 @@
+{
+"category":"crafting",
+"consumes":{"items":[chalk/8]},
+"craftEffect":smeltsmoke, 
+"craftTime":150,
+"localizedName":"Diamond Compressor",
+"outputItem":"diamond/2",
+"research":"exh_chalk_scrapper",
+"requirements":[chalk/80,tenorite/50,zincum/80],
+"size":1, 
+"type":"GenericCrafter"
+}
