@@ -1,0 +1,12 @@
+{
+"category":"power",
+"emptyLightColor":"e0b38d",
+"fullLightColor":"d99e6b",
+"health":420,
+"ConsumePowerBuffered":5000,
+"localizedName":"Tenorite Coil",
+"requirements":["zincum/20","tenorite/20","rawclay/10"]
+"research":"intm_exhiber",
+"size":2, 
+"type":"Battery"
+}
