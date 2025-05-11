@@ -1,0 +1,13 @@
+{
+"category":"production",
+"drillTime":100,
+"health":240,
+"itemCapacity":20,
+"itemDrop":"chalk",
+"liquidBoostIntensity":1, 
+"localizedName":"Chalk Scraper",
+"requirements":[zincum/20],
+"size":2, 
+"tier":1,
+"type":"Drill"
+}
