@@ -1,7 +1,7 @@
 author: chinhonnang0000
 displayName: intermod
 dependencies:[]
-description: "JSON-javaScript compliation of several mods that are unplayable" 
+description: "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners" 
 hidden:false,
 java:false,
 name:"intermod"
