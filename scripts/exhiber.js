@@ -20,7 +20,7 @@ or_vana = Vars.content.block("intermod-ore_vanadium");
 or_zinc = Vars.content.block("intermod-ore_zinc");
 
 init_random();
-Vars.content.planet("intermod-intm_exhiber").generator = exhiber_gen;
+Vars.content.planet("intermod-intm_exhiber").generator = new SerpuloGenerator();
 })
 
 function get_block(a)
