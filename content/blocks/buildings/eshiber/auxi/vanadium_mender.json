@@ -1,0 +1,13 @@
+{
+"category":"effect",
+"consumes":{"power":0.5}
+"health":100,
+"healPercent":10,
+"localizedName": "Vanadium Mender",
+"phaseBoost":2,
+"requirements":[vanadium/20,brass_exhiber/18,rawclay/18]
+"range":80,
+"size":1,
+"type":MendProjector,
+"useTime":240
+}
