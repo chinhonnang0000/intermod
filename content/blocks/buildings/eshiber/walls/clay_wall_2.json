@@ -1,0 +1,8 @@
+{
+"health":480,
+"localizedName":"Large Clay Wall",
+"requirements":[rawclay/32,quartz/16],
+"research":"brass_wall_1",
+"size": 2,
+"type": Wall
+}

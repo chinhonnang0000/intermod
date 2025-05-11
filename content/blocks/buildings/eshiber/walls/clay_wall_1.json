@@ -1,0 +1,6 @@
+{
+"health":120,
+"localizedName":"Clay Wall",
+"requirements":[rawclay/8,quartz/4]
+"type": Wall
+}

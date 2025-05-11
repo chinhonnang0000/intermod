@@ -1,0 +1,8 @@
+{
+"health":2560,
+"localizedName":"Large Brass Wall",
+"requirements":[brass_exhiber/48],
+"research":"brass_wall_1",
+"size": 2,
+"type": Wall
+}

@@ -1,0 +1,6 @@
+{
+"health":1200,
+"localizedName":"Vanadium Wall",
+"requirements":[vanadium/20]
+"type": Wall
+}

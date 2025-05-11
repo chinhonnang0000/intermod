@@ -1,0 +1,8 @@
+{
+"health":4800,
+"localizedName":"large Vanadium Wall",
+"requirements":[vanadium/80],
+"research":"vanadium_wall_1",
+"size": 2,
+"type": Wall
+}
