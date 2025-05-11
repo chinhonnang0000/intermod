@@ -1,8 +1,10 @@
 {
+"armor":20,
 "category":"crafting",
 "consumes":{"items":[zincum/1]}
 "craftEffect":"absorb",
 "craftTime":60,
+"health":360,
 "itemCapacity":10,
 "liquidAmount":1, 
 "liquidCapacity":300,
