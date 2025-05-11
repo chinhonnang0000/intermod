@@ -1,0 +1,14 @@
+{
+"alwaysUnlocked":true,
+"category":effect,
+"envEnabled":5,
+"health":780,
+"itemCapacity":6000,
+"localisedName":"core - Pad",
+"requirements":["diamond/100","tenorite/20","zincum/200"],
+"research":"exh_core_1",
+"size":3,
+"type":"coreBlock",
+"unitCapModifier":3,
+"unitType":"exh_cadet"
+}
