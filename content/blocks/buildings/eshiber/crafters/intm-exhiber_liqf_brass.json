@@ -1,6 +1,6 @@
 {
 "category":"crafting",
-"consumes":{"items":[zinc/1]}
+"consumes":{"items":[zincum/1]}
 "craftEffect":"absorb",
 "craftTime":60,
 "itemCapacity":10,
