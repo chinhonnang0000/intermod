@@ -2,13 +2,13 @@
 "alwaysUnlocked":true,
 "category":effect,
 "envEnabled":5,
-"health":780,
+"health":1520,
 "itemCapacity":6000,
 "localisedName":"core - Pad",
-"requirements":["diamond/100","tenorite/20","zincum/200"],
+"requirements":["quartz/400","brass/200","zincum/1000"],
 "research":"exh_core_1",
 "size":3,
 "type":"coreBlock",
-"unitCapModifier":3,
+"unitCapModifier":9,
 "unitType":"exh_cadet"
 }
