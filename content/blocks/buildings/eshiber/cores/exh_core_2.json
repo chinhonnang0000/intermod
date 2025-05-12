@@ -5,7 +5,7 @@
 "health":1520,
 "itemCapacity":6000,
 "localisedName":"core - Pad",
-"requirements":["quartz/400","brass/200","zincum/1000"],
+"requirements":["quartz/400","brass_exhiber/200","zincum/1000"],
 "research":"exh_core_1",
 "size":3,
 "type":"coreBlock",
