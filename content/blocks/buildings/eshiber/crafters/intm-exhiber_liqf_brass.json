@@ -1,0 +1,15 @@
+{
+"armor":20,
+"category":"crafting",
+"consumes":{"items":[brass_exhiber/1]}
+"craftEffect":"absorb",
+"craftTime":60,
+"hasLiquids":true,
+"liquidCapacity":300,
+"localisedName":"intm_exhiber-liqf_brass",
+"outputLiquid":"liq_brass/1",
+"requirements":["zincum/80","tenorite/40","diamond/80"],
+"research":"exh_chalk_scrapper",
+"size":3,
+"type":"genericCrafter",
+}
