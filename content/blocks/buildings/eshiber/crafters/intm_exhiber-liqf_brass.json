@@ -1,8 +1,0 @@
-{
-"armor":20,
-"category":"crafting",
-"consumes":{"items":[zincum/1]}
-"craftEffect":"absorb",
-"craftTime":60,
-"size":3,
-}
