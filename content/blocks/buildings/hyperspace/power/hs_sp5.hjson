@@ -1,0 +1,8 @@
+category:power
+health:2400
+localizedName: "XXL ferric solar panel"
+powerProduction: 32 
+requirements:[{"item":"copper","amount":400},{"item":"copper-wire","amount":360},{"item":"iron","amount":3000}]
+research: hs_sp4
+size:5
+type:SolarGenerator

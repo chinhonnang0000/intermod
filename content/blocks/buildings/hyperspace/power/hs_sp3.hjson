@@ -1,0 +1,8 @@
+category:power
+health:600
+localizedName: "large ferric solar panel"
+powerProduction: 6 
+requirements:[{"item":"copper","amount":100},{"item":"copper-wire","amount":80},{"item":"iron","amount":600}]
+research: hs_sp2
+size:3
+type:SolarGenerator

@@ -1,0 +1,16 @@
+type: PowerNode
+category: power
+maxNodes: 15
+laserRange: 6
+laserColor1: 363636
+laserColor2: 6e6e6e
+requirements: [
+tin/10
+copper-wire/5
+]
+research: {
+    parent: "core-capsule",
+    requirements: [
+    "sci-1/30"
+    ]
+}

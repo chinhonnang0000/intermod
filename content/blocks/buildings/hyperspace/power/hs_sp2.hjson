@@ -1,0 +1,8 @@
+category:power
+health:240
+localizedName: "medium ferric solar panel"
+powerProduction: 1 
+requirements:[{"item":"copper","amount":40},{"item":"copper-wire","amount":25},{"item":"iron","amount":120}]
+research: hs_sp1
+size:2
+type:SolarGenerator

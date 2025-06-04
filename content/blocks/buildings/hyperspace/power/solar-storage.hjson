@@ -1,0 +1,16 @@
+type: SolarGenerator
+size: 2
+hasPower: true
+powerProduction: 0.3
+requirements: [
+tin/70
+iron/80
+electric-board/20
+]
+category: power
+research: {
+    parent: "lep",
+    requirements: [
+    "sci-1/70"
+    ]
+}

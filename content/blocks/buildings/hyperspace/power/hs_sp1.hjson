@@ -1,0 +1,8 @@
+category:power
+health:60
+localizedName: "small ferric solar panel"
+powerProduction: 0.12
+requirements:[{"item":"copper","amount":10},{"item":"copper-wire","amount":5},{"item":"iron","amount":20}]
+research: crafter
+size:1
+type:SolarGenerator
