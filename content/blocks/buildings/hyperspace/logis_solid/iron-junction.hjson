@@ -1,0 +1,14 @@
+{
+    type: "Junction",
+    category: "distribution",
+    research: {
+        parent: "iron-router",
+        requirements: [
+            "sci-1/5"
+        ]
+    },
+
+    requirements: [
+        "iron/4"
+    ]
+}

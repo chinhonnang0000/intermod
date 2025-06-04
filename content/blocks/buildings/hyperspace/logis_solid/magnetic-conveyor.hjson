@@ -1,0 +1,19 @@
+{
+    type: "Conveyor",
+    category: "distribution",
+
+    health: 90,
+    speed: 0.04,
+    displayedSpeed: 8.4,
+
+    research: {
+        parent: "core-capsule",
+        requirements: [
+            "tin/5"
+        ]
+    },
+
+    requirements: [
+        "tin/2"
+    ]
+}

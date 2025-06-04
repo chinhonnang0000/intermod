@@ -1,0 +1,16 @@
+type: Router
+health: 90
+requirements: [
+tin/8
+copper/4
+]
+envDisabled: 16
+category: distribution
+hasShadow: true
+	research: {
+        parent: "magnetic-conveyor",
+        requirements: [
+            "tin/10",
+			"copper/10"
+        ]
+    },
