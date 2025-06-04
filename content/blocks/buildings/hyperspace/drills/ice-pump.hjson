@@ -1,0 +1,30 @@
+{
+    type: "AttributeCrafter",
+    category: "production",
+    size: 2,
+    health: 500,
+
+    craftTime: 110,
+    baseEfficiency: 0,
+    outputItem: "methane-cube/1",
+
+    research: {
+        parent: "deep-drill",
+        requirements: [
+            "sci-1/30"
+        ]
+    },
+
+requirements: [copper/50,tin/40],
+
+    drawer: [
+        {
+            type: "DrawDefault"
+        },
+        {
+            type: "DrawRegion",
+            suffix: "-rotator",
+            rotateSpeed: 1
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+type: Drill
+size: 2
+ambientSound: drilling
+ambientSoundVolume: 0.9f
+planet: tionr
+tier: 3
+hasShadow: true
+drillTime: 520
+requirements: [
+tin/50
+iron/40
+brass/50
+]
+category: production
+research: {
+parent: deep-drill
+requirements: [
+sci-1/80
+]
+}

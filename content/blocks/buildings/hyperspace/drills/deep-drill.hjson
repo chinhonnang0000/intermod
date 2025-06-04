@@ -1,0 +1,18 @@
+type: Drill
+size: 2
+ambientSound: drilling
+ambientSoundVolume: 0.5f
+planet: tionr
+tier: 1
+hasShadow: true
+drillTime: 600
+requirements: [
+tin/50
+]
+category: production
+research: {
+parent: intm_hyperspace_tionr
+requirements: [
+tin/50
+]
+}
