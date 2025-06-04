@@ -1,0 +1,18 @@
+{
+    type: "Wall",
+    category: "defense",
+
+    health: 300,
+
+    research: {
+        parent: "intm_hyperspace_tionr",
+        requirements: [
+            "sci-2/10"
+        ]
+    },
+
+    requirements: [
+        "tin/3",
+        "iron/6"
+    ]
+}
