@@ -1,0 +1,11 @@
+{
+    type: "CoreBlock",
+    category: "effect",
+    size: 4,
+    health: 2000,
+    itemCapacity: 700,
+    unitType: "beta",
+    isFirstTier: true,
+    alwaysUnlocked: true,
+research: "intm_hyperspace_tionr"
+}
