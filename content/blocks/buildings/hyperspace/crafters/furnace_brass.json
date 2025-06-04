@@ -4,8 +4,9 @@ category:crafting,
 consumes:{items:[copper/2,tin/2],}
 craftTime:105,
 
-"drawer":{"type":"DrawMulti","drawers":[{"type":"DrawRegion","suffix":"-bottom"},{"type":"DrawArcSmelt"},{"type":"DrawDefault"}]}
-[{"type":"DrawDefault"},{"type":"DrawArcSmelt"}]
+"drawer":{"type":"DrawMulti","drawers":[
+{"type":"DrawRegion","suffix":"-bottom"},
+{"type":"DrawArcSmelt"},{"type":"DrawDefault"}]
 }
 health:720
 hasPower:true,
