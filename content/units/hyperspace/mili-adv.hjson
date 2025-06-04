@@ -1,0 +1,63 @@
+type: mech
+hitSize: 23
+drawsize: 0
+health: 270
+armor: 1
+group: T3
+rotateSpeed: 2.7
+ignoreRotation: true
+hovering: false
+outlineRadius: 2
+lightRadius: 60
+lightColor: FFFFFF
+research: {
+parent: mili
+requirements: [sci-1/50,sci-2/70]
+}
+speed: 0.62f
+weapons: [
+{
+name: mili-adv-weapon
+x: 16
+y: 1
+shootSound: shoot2
+rotateSpeed: 1.0
+rotate: false
+ejectEffect: casing1
+shoot: {
+shots: 1
+}
+reload: 3
+recoil: 2
+bullet: {
+type: BasicBulletType
+speed: 2.5f
+damage: 6
+height: 9
+width: 7
+lifetime: 70
+}
+},
+{
+name: mili-weapon
+x: 10
+y: -3
+shootSound: shoot
+rotateSpeed: 5
+rotate: true
+ejectEffect: casing1
+shoot: {
+shots: 1
+}
+reload: 30
+recoil: 1
+bullet: {
+type: BasicBulletType
+speed: 2.5f
+damage: 9
+height: 9
+width: 7
+lifetime: 70
+}
+}
+]

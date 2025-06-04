@@ -1,0 +1,52 @@
+type: mech
+hitSize: 11
+controller: BuilderAI
+mineSpeed: 2
+mineTier: 0
+buildSpeed: 0.25
+buildRange: 150
+canBoost: true
+boostMultiplier: 0.5
+mineFloor: true
+mineWalls: true
+drawsize: 0
+health: 100
+armor: 1
+group: T1
+ignoreRotation: true
+hovering: false
+outlineRadius: 2
+lightRadius: 60
+lightColor: FFFFFF
+research: {
+parent: core-capsule
+requirements: [
+sci-1/10
+sci-2/40
+]
+}
+speed: 1
+weapons: [
+{
+name: mili-weapon
+x: 5
+y: 1
+shootSound: shoot
+rotateSpeed: 1.0
+rotate: false
+ejectEffect: casing1
+shoot: {
+shots: 1
+}
+reload: 30
+recoil: 1
+bullet: {
+type: BasicBulletType
+speed: 2.5f
+damage: 9
+height: 9
+width: 7
+lifetime: 70
+}
+}
+]
