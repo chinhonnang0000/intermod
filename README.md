@@ -4,6 +4,7 @@ mindustry mod that contains other mod that no longer works. Additinal details an
 this mods contains several mod remakes (WIP): Made beause the original mods have content errors or crash upon start up or not working at all (using V146). DOES NOT INCLUDE MUSICS. 
 - Diamond Ore Mod by z0mbiesrock https://github.com/z0mbiesrock/diamond-ore
 - Exhiber https://github.com/siede2010/modexhiber
+- Hyperspace (removed from browser)
 - Malcalor https://github.com/skyethefoxyfox/malcalor
 - Tantria (not on the existing Tantros). https://github.com/jasmarkelina/tantros-mod
 - Wisp by RintaDev https://github.com/rintadev/wisp
