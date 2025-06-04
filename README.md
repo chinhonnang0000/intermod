@@ -44,4 +44,3 @@ Last done :: fixing some error caused by requiring script that does not exist th
 ---TDL: MleGnd T5 , ShkAir T4 & T5,  SpcAir, SpoNav, SuiAir 
 
 Current bugs 
-- main script is not activated. 
