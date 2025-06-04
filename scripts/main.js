@@ -4,6 +4,7 @@ require("tantria");
 require("malc"); 
 require("intm_main"); 
 require("intm_exhiber");
+require("hs_tionr");
 require("dore");
 Events.on(ContentInitEvent, e =>
 { 
