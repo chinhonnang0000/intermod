@@ -1,0 +1,46 @@
+{
+    type: "ItemTurret",
+    category: "turret",
+    size: 3,
+	ammoUseEffect: casing1,
+	shootY: 3,
+    requirements: [ 
+		"tin/60",
+		"iron/50",
+		"brass/30",
+    ]
+
+    range: 180,
+    reload: 70,
+
+    shoot: {
+        shots: 1,
+    },
+
+    ammoTypes: {
+        ammo: {
+            reloadMultiplier: 1,
+            ammoMultiplier: 2,
+			shootSound: shoot,
+            damage: 15,
+            height: 9,
+            speed: 99,
+            width: 7
+			lifetime: 3,
+        },
+		ammo2: {
+            reloadMultiplier: 1,
+            ammoMultiplier: 3,
+			shootSound: shoot,
+            damage: 20,
+            height: 9,
+            speed: 99,
+            width: 7
+			lifetime: 3,
+        }
+    }
+	research: {
+        parent: "fisle",
+        requirements: ["sci-1/50","sci-2/80"]
+    },
+}

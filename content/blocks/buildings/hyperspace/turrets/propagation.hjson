@@ -1,0 +1,43 @@
+{
+    type: "ItemTurret",
+    category: "turret",
+    size: 2,
+
+    health: 600,
+
+    requirements: [ "tin/50","iron/70"]
+    range: 120,
+    reload: 40,
+    inaccuracy: 4,
+
+    shoot: {
+        type: "ShootSpread",
+        shots: 8,
+        spread: 10
+    },
+
+    ammoTypes: {
+        ammo: {
+            reloadMultiplier: 1,
+            ammoMultiplier: 1,
+            lifetime: 2,
+            damage: 8,
+            height: 8,
+            speed: 99,
+            width: 4.5
+        },
+		ammo2: {
+            reloadMultiplier: 1,
+            ammoMultiplier: 2,
+            lifetime: 2,
+            damage: 11,
+            height: 8,
+            speed: 99,
+            width: 4.5
+        }
+    }
+	research: {
+        parent: "intm_hyperspace_tionr",
+        requirements:["sci-1/30","sci-2/40"]
+    },
+}
