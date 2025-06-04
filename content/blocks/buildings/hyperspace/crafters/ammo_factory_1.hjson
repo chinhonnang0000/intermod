@@ -1,0 +1,16 @@
+{
+ambientSound:assemble,
+category:crafting,
+consumes:{items:[coal/4,tin/3],}
+craftTime:105,
+health:720
+localizedName:"ammo_factory_1"
+itemCapacity:10
+"outputItem":"ammo/2"
+requirements: ["tin/60","iron/50","copper-wire/20"]
+research:{"parent":"crafter"}
+size:3
+"type":"GenericCrafter",
+}
+
+

@@ -1,0 +1,21 @@
+{
+ambientSound:assemble,
+category:crafting,
+consumes:{items:[iron/2,Nickel/2],}
+craftTime:125,
+
+drawer:{"type":"DrawMulti","drawers":
+[{"type":"DrawDefault"},{"type":"DrawArcSmelt"}]
+}
+health:720
+hasPower:true,
+localizedName:"invar smelter"
+itemCapacity:20
+"outputItem":"invar/2"
+requirements: ["tin/50","iron/80","copper/10"]
+research:{"parent":"intm_hyperspace_tionr","requrirements":[sci-1/50]}
+size:3
+"type":"GenericCrafter",
+}
+
+

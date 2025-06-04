@@ -1,0 +1,16 @@
+{
+ambientSound:assemble,
+category:crafting,
+consumes:{items:[coal/6,brass/2],power:1}
+craftTime:125,
+health:720
+localizedName:"ammo_factory_2"
+itemCapacity:20
+"outputItem":"ammo2/2"
+requirements: ["tin/60","iron/50","copper-wire/20"]
+research:{"parent":"furnace_brass"}
+size:3
+"type":"GenericCrafter",
+}
+
+

@@ -1,0 +1,17 @@
+{
+ambientSound:assemble,
+
+category:crafting,
+consumes:{items:[copper/4],}
+craftTime:210,
+health:160
+localizedName:"copper wire crafter"
+itemCapacity:10
+"outputItem":"copper-wire/3"
+requirements: ["tin/50","iron/60"]
+research:{"parent":"intm_hyperspace_tionr"}
+size:2
+"type":"GenericCrafter",
+}
+
+

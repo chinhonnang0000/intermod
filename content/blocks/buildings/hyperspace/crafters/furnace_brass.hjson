@@ -1,0 +1,21 @@
+{
+ambientSound:assemble,
+category:crafting,
+consumes:{items:[copper/2,tin/2],}
+craftTime:105,
+
+"drawer":{"type":"DrawMulti","drawers":[{"type":"DrawRegion","suffix":"-bottom"},{"type":"DrawArcSmelt"},{"type":"DrawDefault"}]}
+[{"type":"DrawDefault"},{"type":"DrawArcSmelt"}]
+}
+health:720
+hasPower:true,
+localizedName:"brass smelter"
+itemCapacity:20
+"outputItem":"brass/2"
+requirements: ["tin/50","iron/80","copper/10"]
+research:{"parent":"intm_hyperspace_tionr","requrirements":[sci-1/50]}
+size:3
+"type":"GenericCrafter",
+}
+
+

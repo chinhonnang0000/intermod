@@ -1,0 +1,17 @@
+{
+ambientSound:assemble
+ambientSoundVolume:0.9 
+category:crafting
+consumes:{items:[{"item":"copper-wire","amount":2},{"item":"tin","amount":5}],power:1}
+health:720
+hasPower:true,
+localizedName:"electric board assembler"
+itemCapacity:20
+"outputItem":"electric-board/2"
+requirements: ["tin/60","iron/50","copper-wire/20"]
+research:"crafter"
+size:3
+"type":"GenericCrafter", 
+}
+
+

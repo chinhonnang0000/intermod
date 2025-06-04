@@ -1,0 +1,16 @@
+{
+ambientSound:assemble,
+category:crafting,
+consumes:{items:[copper/5,brass/2,ammo/2],power:1}
+craftTime:210,
+health:800
+localizedName:"lab tier 2"
+itemCapacity:20
+"outputItem":"sci-2/3"
+requirements: ["sci-1/250","tin/50","iron/50","copper/10","brass/30"]
+research:{"parent":"lab"}
+size:3
+"type":"GenericCrafter",
+}
+
+
