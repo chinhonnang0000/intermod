@@ -41,6 +41,6 @@ Last done :: DIOREMOD: medFGnd 5.
 - Re-including Exhiber. 
 - Diamond Ore mod (intm_dioremod) Tech trees reworks. 
 - Diamond Ore mod (intm_dioremod) unit patch up and may end up the different working from the original one.
----TDL: MleGnd T5 , ShkAir T4 & T5,  SpcAir, SpoNav, SuiAir 
+---TDL: MleGnd T5 , SpcAir, SpoNav, SuiAir 
 
 Current bugs 
