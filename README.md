@@ -41,6 +41,6 @@ Last done :: dioremod: shk air t4 & 5.
 - Re-including Exhiber. 
 - Diamond Ore mod (intm_dioremod) Tech trees reworks. 
 - Diamond Ore mod (intm_dioremod) unit patch up and may end up the different working from the original one.
----TDL:, SpcAir, SpoNav, SuiAir 
+---TDL:,  SpoNav, SuiAir 
 
 Current bugs 
