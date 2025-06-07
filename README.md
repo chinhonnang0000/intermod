@@ -35,12 +35,10 @@ a lot of things could be added once the original mod works and resolves its erro
 For example if Tantria "works" again, minimum 3 tiers and 10 missions will be added. Each will be more overpowered than the last.   
 - Things are added to make the mod playable (intm_main). They will be OP in higher tiers. 
 
-Last done :: dioremod: shk air t4 & 5. 
+Last done :: dioremod: units. 
 
 #current affairs: Deletes once completed. 
 - Re-including Exhiber. 
 - Diamond Ore mod (intm_dioremod) Tech trees reworks. 
-- Diamond Ore mod (intm_dioremod) unit patch up and may end up the different working from the original one.
----TDL:,  SuiAir 
 
 Current bugs 
