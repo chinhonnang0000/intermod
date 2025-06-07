@@ -8,6 +8,7 @@ require("hs_tionr");
 require("dore");
 
 require("dioremod/medgnd_5"); require("dioremod/mlegnd_5"); require ("dioremod/shkair_4"); require ("dioremod/shkair_5");
+reqyire("dioremod/suiair_3"); 
 Events.on(ContentInitEvent, e =>
 { 
    // intermod to original contents
