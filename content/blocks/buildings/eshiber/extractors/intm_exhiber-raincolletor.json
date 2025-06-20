@@ -1,0 +1,9 @@
+{
+"category":"crafting",
+"localizedName":"RainCollector"
+"outputItem":"diamond/1",
+"requirements":["zincum/30","chalk/20"],
+"research":"exh_chalk_scrapper",
+"size":2,
+"type": "GenericCrafteer",
+}
