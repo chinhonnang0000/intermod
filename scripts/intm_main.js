@@ -73,7 +73,7 @@ function set_random()
         if(arr[a][b] == Blocks.arkyciteFloor){b = b+1; arr[a][b] = Blocks.arkyicStone;} 
         else if(arr[a][b] == Blocks.darksandWater){b = b+1; arr[a][b] = Blocks.darksand;} 
         else if(arr[a][b] == Blocks.sandWater){b = b+1; arr[a][b] = Blocks.sand;} 
-        else if(arr[a][b] == Blocks.slag){b = b+1;arr[a][b] = Blocks.magmaRock;   b = b+1;arr[a][b] = Blocks.hotrock;   b = b+1;arr[a][b] = Blocks.basalt;} 
+        else if(arr[a][b] == Blocks.slag){b = b+1;arr[a][b] = Blocks.magmarock;   b = b+1;arr[a][b] = Blocks.hotrock;   b = b+1;arr[a][b] = Blocks.basalt;} 
         else if(arr[a][b] == Blocks.ice){b = b+1; arr[a][b] = Blocks.iceSnow; b+1; arr[a][b] = Blocks.snow;} 
         b = b+1; 
       }
