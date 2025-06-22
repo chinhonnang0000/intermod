@@ -48,7 +48,7 @@ function get_random_tiles()
       case 19: return Blocks.regolith; 
       case 20: return Blocks.rhyolite;
       case 21: return Blocks.sand;
-      case 22: return Blocks.darksandWater;
+      case 22: return Blocks.sandWater;
       case 23: return Blocks.shale; 
       case 24: return Blocks.slag;  
       case 25: return Blocks.snow;
@@ -69,8 +69,13 @@ function set_random()
       arr[a] = new Array(); 
       b = 0; while(b < 50)
       {
-         arr[a][b] = get_random_tiles(); 
-         b = b+1; 
+        arr[a][b] = get_random_tiles(); 
+        if(arr[a][b] == Blocks.arkyciteFloor){b = b+1; arr[a][b] = Blocks.arkyicStone;} 
+        else if(arr[a][b] == Blocks.darksandWater){b = b+1; arr[a][b] = Blocks.darksand;} 
+        else if(arr[a][b] == Blocks.sandWater){b = b+1; arr[a][b] = Blocks.sand;} 
+        else if(arr[a][b] == Blocks.slag){b = b+1;arr[a][b] = Blocks.magmaRock;   b = b+1;arr[a][b] = Blocks.hotrock;   b = b+1;arr[a][b] = Blocks.basalt;} 
+        else if(arr[a][b] == Blocks.ice){b = b+1; arr[a][b] = Blocks.iceSnow; b+1; arr[a][b] = Blocks.snow;} 
+        b = b+1; 
       }
       a = a+1; 
    }
