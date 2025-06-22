@@ -77,6 +77,7 @@ function set_random()
         else if(arr[a][b] == Blocks.magmarock){b = b+1;arr[a][b] = Blocks.hotrock;   b = b+1;arr[a][b] = Blocks.basalt;}
         else if(arr[a][b] == Blocks.slag){b = b+1;arr[a][b] = Blocks.magmarock;   b = b+1;arr[a][b] = Blocks.hotrock;   b = b+1;arr[a][b] = Blocks.basalt;} 
         else if(arr[a][b] == Blocks.ice){b = b+1; arr[a][b] = Blocks.iceSnow; b+1; arr[a][b] = Blocks.snow;} 
+        else if(arr[a][b] == Blocks.moss){b = b+1; arr[a][b] = Blocks.sporeMoss;} 
         b = b+1; 
       }
       a = a+1; 
