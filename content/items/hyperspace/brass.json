@@ -1,0 +1,16 @@
+{
+"explosiveness": 0,
+"flammability": 0,
+"radioactivity": 0,
+"charge": 0.2,
+"hardness:" 0,
+
+"localizedName":"brass_of_tionr",
+    research: {
+        parent: "iron"
+    },
+    hiddenOnPlanets: [
+        "serpulo",
+        "erekir"
+    ]
+}
