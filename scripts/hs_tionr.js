@@ -125,7 +125,7 @@ var hs_tionr_gen = extend(SerpuloPlanetGenerator,{
         this.width = this.tiles.width;    this.height = this.tiles.height;
         var constraint = 1.3;
         var radius = this.width / 2 
-        var rooms = rand.random(2, 5);
+        var rooms = rand.random(2, 5 + 0.001 * Math.pow(this.getSectorSize(se),2);
         var roomseq = new Seq();
 
         for(var i = 0; i < rooms; i++){
