@@ -4,9 +4,10 @@
 "consumes":{"items":[iron/2,Nickel/2],}
 "craftTime":125,
 
-"drawer":{"type":"DrawMulti","drawers":
-[{"type":"DrawDefault"},{"type":"DrawArcSmelt"}]
-}
+"drawer":{"type":"DrawMulti","drawers":[
+{"type":"DrawRegion","suffix":"-bottom"},
+{"type":"DrawArcSmelt"},{"type":"DrawDefault"}]
+},
 "health":720,
 "hasPower":true,
 "localizedName":"invar smelter",
