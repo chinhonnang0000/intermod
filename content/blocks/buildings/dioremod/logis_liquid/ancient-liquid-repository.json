@@ -1,3 +1,4 @@
+{
 "type":"LiquidRouter",
 "name":"Ancient Liquid Repository",
 "health": 18000,
@@ -8,6 +9,7 @@
 "requirements": ["titanium/800",metaglass/1025,cryogem/125,ancient-alloy/125]
 "category":"liquid",
 "research":"ancient-vault",
-"drwers":{"type":"DrawMulti","drawers":[{"type":"DrawRegion","suffix":"-bottom"},"DrawLiquid","DrwDefault",{"type":"DrawRegion","suffix":"-top"}]
+"drwers":{"type":"DrawMulti","drawers":[{"type":"DrawRegion","suffix":"-bottom"},{"type","DrawLiquid"},{"type","DrwDefault"},{"type":"DrawRegion","suffix":"-top"}]
+}
 
 
