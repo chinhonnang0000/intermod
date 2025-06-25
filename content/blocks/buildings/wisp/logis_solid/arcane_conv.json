@@ -3,20 +3,14 @@
 	"type": "Conveyor",
 	"description": "Why would you ever need a conveyor this fast",
 	"category": "distribution",
-	"buildVisibility": "shown",
-	"health": 1,
+	"health": 1000,
 	"speed": 0.16,
-	"breakable": true,
-	"research": {
-	"objectives": [{type: SectorComplete,preset: "wisp_capital"}]
-	"requirements": [
-	"arcgem/600"
-	]
+	
+	"research": {"objectives": [{type: SectorComplete,preset: "wisp_capital"}]
+	"requirements": ["arcgem/600"]
 	"parent": "steelconveyor"
-	}
-	"alwaysUnlocked": false,
-	"requirements": [
-	"arcgem/1"
-	]
+	},
+"alwaysUnlocked": false,
+"requirements":["arcgem/1"]
 }
 
