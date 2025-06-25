@@ -14,6 +14,7 @@ requirements: [
   cryogem/35
   ancient-alloy/55
 ],
+"drwers":{"type":"DrawMulti","drawers":[{"type":"DrawRegion","suffix":"-bottom"},{"type":"DrawLiquid"},{"type":"DrwDefault"}]},
 "category":"liquid",
 "research":"ancient-liquid-repository",
 }
