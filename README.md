@@ -38,7 +38,8 @@ For example if Tantria "works" again, minimum 3 tiers and 10 missions will be ad
 Last done :: dioremod: units. 
 
 #current affairs: Excluding bugfixes and sprite mising.  Deletes once completed. 
-- Re-including Exhiber. 
+- Re-including Exhiber.
+- intm_dioremod campaign and easy missions since the techs cannot be obrtained without playing serpulo campaign first. and some supplementaty techs
 - Diamond Ore mod (intm_dioremod) Tech trees reworks. 
 
 Current bugs 
