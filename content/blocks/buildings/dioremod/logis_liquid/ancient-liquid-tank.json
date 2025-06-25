@@ -1,3 +1,4 @@
+{
 type: LiquidRouter
 name: Ancient Liquid Tank
 health: 6000
@@ -12,8 +13,9 @@ requirements: [
   silicon/100
   cryogem/35
   ancient-alloy/55
-]
-category: liquid
-research: ancient-liquid-repository
+],
+"category":"liquid",
+"research":"ancient-liquid-repository",
+}
 
 
