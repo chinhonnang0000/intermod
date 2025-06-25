@@ -37,7 +37,7 @@ For example if Tantria "works" again, minimum 3 tiers and 10 missions will be ad
 
 Last done :: dioremod: units. 
 
-#current affairs: Deletes once completed. 
+#current affairs: Excluding bugfixes and sprite mising.  Deletes once completed. 
 - Re-including Exhiber. 
 - Diamond Ore mod (intm_dioremod) Tech trees reworks. 
 
