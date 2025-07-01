@@ -1,6 +1,7 @@
 {
 "health":640,
 "localizedName":"Brass Wall",
-"requirements":[brass_exhiber/12]
-"type": Wall
+"requirements":[brass_exhiber/12],
+"research":"intm_exhiber_swift",
+"type":"Wall"
 }
