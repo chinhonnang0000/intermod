@@ -3,11 +3,11 @@
 {
 "chalk":
 {"type":"BasicBulletType","damage":18,"speed":4,"lifetime":36,"reloadMultiplier":1.2,"ammoMultiplier":4,
-
+ "weaveScale":3,"weaveMag":3,"trailWidth":2,"trailLength":10
 },
 "diamond":
 {"type":"BasicBulletType","damage":45,"speed":4,"lifetime":36,"reloadMultiplier":1.2,"ammoMultiplier":2,
-
+ "weaveScale":4,"weaveMag":4,"trailWidth":2,"trailLength":10
 }
 }
 "health":320,
@@ -21,12 +21,12 @@
 
 "backupdara":
   {
-     "weaveScale":3,"weaveMag":3,"trailWidth":2,"trailLength":10,
+    
 "trailColor":"white","backColor":"white","lightColor":"white",
 "hitEffect":"chalkAoe",
 "splashDamage":14,"splashDamageRadius":8,
 
-    "weaveScale":4,"weaveMag":4,"trailWidth":2,"trailLength":10,
+   
 "trailColor":"white","backColor":"white","lightColor":"lancerLaser",
 "status":"scabbed","statusDuration":180
   }
