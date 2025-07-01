@@ -2,5 +2,6 @@
 "health":1200,
 "localizedName":"Vanadium Wall",
 "requirements":[vanadium/20]
+"research":"brsss_wall_1",
 "type": Wall
 }
