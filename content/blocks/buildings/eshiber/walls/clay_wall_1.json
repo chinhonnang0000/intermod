@@ -1,6 +1,7 @@
 {
 "health":120,
 "localizedName":"Clay Wall",
-"requirements":[rawclay/8,quartz/4]
+"requirements":[rawclay/8,quartz/4],
+"research":"brass_wall_2",
 "type": Wall
 }
