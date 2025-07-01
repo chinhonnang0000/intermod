@@ -9,7 +9,7 @@
 "diamond":
 {"type":"BasicBulletType","damage":45,"speed":4,"lifetime":36,"reloadMultiplier":1.2,"ammoMultiplier":2,
  "weaveScale":4,"weaveMag":4,"trailWidth":2,"trailLength":10,
- "status":"scabbed","statusDuration":180
+ "status":"scrabbed","statusDuration":180
 }
 }
 "health":320,
