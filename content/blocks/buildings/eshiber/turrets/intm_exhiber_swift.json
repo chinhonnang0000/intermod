@@ -16,6 +16,7 @@
 "localizedName":"Swift",
 "range": 144,
 "reload":80,
+"research":"intm_exhiber",
 "requirements":["zincum/12","diamond/8"],
 "shoot":{"shots":2,"shotDelay":10},
 "size":1,
