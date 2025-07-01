@@ -12,6 +12,7 @@
  "status":"scrabbed","statusDuration":180
 }
 }
+"category":"turret",
 "health":320,
 "localizedName":"Swift",
 "range": 144,
